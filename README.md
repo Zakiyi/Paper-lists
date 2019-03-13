@@ -15,6 +15,7 @@ Papers list of computer vision
 1. Multi-Scale Context Aggregation by Dilated Convolutions, *Fisher Yu et al, ICLR.* [pdf](http://vladlen.info/papers/dilated-convolutions.pdf)
 2. Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding, *Alex Kendall et al, BMVC.* [pdf](https://arxiv.org/pdf/1511.02680.pdf)
 3. Attention to Scale: Scale-aware Semantic Image Segmentation, *Liang-Chieh Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1511.03339.pdf)
+4. RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation, *Guosheng Lin et al, CVPR.* [pdf](https://arxiv.org/pdf/1611.06612.pdf)
 
 ### 2017
 1. Rethinking Atrous Convolution for Semantic Image Segmentation, *Liang-Chieh Chen et al, Technical report.* [pdf](https://arxiv.org/pdf/1706.05587.pdf)
@@ -23,3 +24,5 @@ Papers list of computer vision
 ### 2018
 1. Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation, *Liang-Chieh Chen et al, ECCV.* [pdf](https://arxiv.org/pdf/1802.02611.pdf)
 2. Searching for Efficient Multi-Scale Architectures for Dense Image Prediction, *Liang-Chieh Chen et al, NIPS.* [pdf](https://arxiv.org/pdf/1809.04184.pdf)
+3. Pyramid Attention Network for Semantic Segmentation, *Hanchao Li et al, BMVC.* [pdf](https://arxiv.org/pdf/1805.10180.pdf)
+4. Learning a Discriminative Feature Network for Semantic Segmentation, *Changqian Yu et al, CVPR.* [pdf](https://arxiv.org/pdf/1804.09337.pdf)
