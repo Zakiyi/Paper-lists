@@ -26,3 +26,4 @@ Papers list of computer vision
 2. Searching for Efficient Multi-Scale Architectures for Dense Image Prediction, *Liang-Chieh Chen et al, NIPS.* [pdf](https://arxiv.org/pdf/1809.04184.pdf)
 3. Pyramid Attention Network for Semantic Segmentation, *Hanchao Li et al, BMVC.* [pdf](https://arxiv.org/pdf/1805.10180.pdf)
 4. Learning a Discriminative Feature Network for Semantic Segmentation, *Changqian Yu et al, CVPR.* [pdf](https://arxiv.org/pdf/1804.09337.pdf)
+5. BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation, *Changqian Yu et al, ECCV.* [pdf](https://arxiv.org/pdf/1808.00897.pdf)
