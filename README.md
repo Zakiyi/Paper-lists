@@ -9,4 +9,4 @@ Papers list of computer vision
 5. SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation. *Vijay Badrinarayanan et al, TPAMI.* [journal pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803544)
 
 ### 2016
-1. Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding. Proceedings of the British Machine Vision Conference (BMVC), *Alex Kendall et al.* [pdf](https://arxiv.org/pdf/1511.02680.pdf)
+1. Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding. Proceedings of the British Machine Vision Conference, *Alex Kendall et al.* BMVC. [pdf](https://arxiv.org/pdf/1511.02680.pdf)
