@@ -1,3 +1,4 @@
 # Reading-lists-CV
 Papers list of computer vision
-## [Semantic segmantation](https://github.com/Zakiyi/Reading-lists-CV/blob/master/Semantic%20Segmentation.md)
+## Semantic segmantation
+1. 2015, CVPR, Fully Convolutional Networks for Semantic Segmentation. [pdf](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
