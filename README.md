@@ -16,6 +16,7 @@ Papers list of computer vision
 2. Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding, *Alex Kendall et al, BMVC.* [pdf](https://arxiv.org/pdf/1511.02680.pdf)
 3. Attention to Scale: Scale-aware Semantic Image Segmentation, *Liang-Chieh Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1511.03339.pdf)
 4. RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation, *Guosheng Lin et al, CVPR.* [pdf](https://arxiv.org/pdf/1611.06612.pdf)
+5. Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation, *Golnaz Ghiasi et al, ECCV.* [pdf](https://arxiv.org/pdf/1605.02264.pdf)
 
 ### 2017
 1. Rethinking Atrous Convolution for Semantic Image Segmentation, *Liang-Chieh Chen et al, Technical report.* [pdf](https://arxiv.org/pdf/1706.05587.pdf)
@@ -29,3 +30,4 @@ Papers list of computer vision
 5. BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation, *Changqian Yu et al, ECCV.* [pdf](https://arxiv.org/pdf/1808.00897.pdf)
 6. Context Contrasted Feature and Gated Multi-scale Aggregation for Scene Segmentation, *Henghui Ding et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Context_Contrasted_Feature_CVPR_2018_paper.pdf)
 7. CCNet: Criss-Cross Attention for Semantic Segmentation, *Zilong Huang et al, Arxiv.* [pdf](https://arxiv.org/pdf/1811.11721.pdf)
+8. DenseASPP for Semantic Segmentation in Street Scenes, *Maoke Yang et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
