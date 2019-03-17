@@ -11,6 +11,8 @@
 8. Deep Hierarchical Parsing for Semantic Segmentation, *Abhishek Sharma et al, CVPR.* [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sharma_Deep_Hierarchical_Parsing_2015_CVPR_paper.pdf)
 9. Semantic Image Segmentation via Deep Parsing Network, *Ziwei Liu et al, ICCV.* [journal pdf](https://arxiv.org/pdf/1606.07230.pdf), [conference pdf](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Liu_Semantic_Image_Segmentation_ICCV_2015_paper.pdf)
 10. Conditional Random Fields as Recurrent Neural Networks, *Shuai Zheng et al, ICCV.* [pdf](https://www.robots.ox.ac.uk/~szheng/papers/CRFasRNN.pdf)
+11. DeepContour: A Deep Convolutional Feature Learned by Positive-sharing Loss for Contour Detection, *Wei Shen et al, CVPR.* [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Shen_DeepContour_A_Deep_2015_CVPR_paper.pdf)
+12. DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, *Gedas Bertasius et al, CVPR.* [pdf](https://arxiv.org/pdf/1412.1123.pdf)
 
 ### 2016
 1. Multi-Scale Context Aggregation by Dilated Convolutions, *Fisher Yu et al, ICLR.* [pdf](http://vladlen.info/papers/dilated-convolutions.pdf)
