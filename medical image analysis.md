@@ -3,7 +3,7 @@
 ### Image Segmentation
 1. Combining Fully Convolutional and Recurrent Neural Networks for 3D Biomedical Image Segmentation (***2016*** &#x1F44D;), *Jianxu Chen et al, NIPS.* [pdf](https://arxiv.org/pdf/1609.01006.pdf)
 2. Joint Sequence Learning and Cross-Modality Convolution for 3D Biomedical Segmentation (***2017***), *Kuan-Lun Tseng et al, CVPR.* [pdf](https://arxiv.org/pdf/1704.07754.pdf)
-3. Neuron Segmentation Using Deep Complete Bipartite Networks (***2017*** &#x1F341), *Jianxu Chen et al, MICCAI.* [pdf](https://arxiv.org/pdf/1705.11053.pdf)
+3. Neuron Segmentation Using Deep Complete Bipartite Networks (***2017*** &#x1F341;), *Jianxu Chen et al, MICCAI.* [pdf](https://arxiv.org/pdf/1705.11053.pdf)
 4. Suggestive Annotation: A Deep Active Learning Framework for Biomedical Image Segmentation (***2017***), *Jianxu Chen et al, MICCAI.* [pdf](https://arxiv.org/pdf/1706.04737.pdf)
 
 ### Generative Adversarial Networks
