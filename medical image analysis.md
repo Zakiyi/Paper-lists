@@ -7,7 +7,7 @@
 4. Suggestive Annotation: A Deep Active Learning Framework for Biomedical Image Segmentation (***2017***), *Jianxu Chen et al, MICCAI.* [pdf](https://arxiv.org/pdf/1706.04737.pdf)
 
 ### Generative Adversarial Networks
-1. Medical Image Synthesis with Context-Aware Generative Adversarial Networks (***2016*** RED APPLE (&#x1F34E;)), *Dong Nie et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66179-7_48.pdf)
+1. Medical Image Synthesis with Context-Aware Generative Adversarial Networks (***2016*** RED APPLE (&#x1F601;)), *Dong Nie et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66179-7_48.pdf)
 2. Adversarial Training and Dilated Convolutions for Brain MRI Segmentation (***2017***), *Pim Moeskops et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-67558-9_7.pdf)
 
 ### Miscellaneous
