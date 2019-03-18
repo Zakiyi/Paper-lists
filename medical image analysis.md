@@ -9,6 +9,10 @@
 ### Generative Adversarial Networks
 1. Medical Image Synthesis with Context-Aware Generative Adversarial Networks (***2016***&#x1F31E;), *Dong Nie et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66179-7_48.pdf)
 2. Adversarial Training and Dilated Convolutions for Brain MRI Segmentation (***2017***), *Pim Moeskops et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-67558-9_7.pdf)
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 
 ### Miscellaneous
 1. Fine-tuning Convolutional Neural Networks for Biomedical Image Analysis: Actively and Incrementally (***2017***), *Zongwei Zhou et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Fine-Tuning_Convolutional_Neural_CVPR_2017_paper.pdf)
