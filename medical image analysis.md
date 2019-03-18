@@ -5,6 +5,8 @@
 2. Joint Sequence Learning and Cross-Modality Convolution for 3D Biomedical Segmentation (***2017***), *Kuan-Lun Tseng et al, CVPR.* [pdf](https://arxiv.org/pdf/1704.07754.pdf)
 3. Neuron Segmentation Using Deep Complete Bipartite Networks (***2017*** &#x1F341;), *Jianxu Chen et al, MICCAI.* [pdf](https://arxiv.org/pdf/1705.11053.pdf)
 4. Suggestive Annotation: A Deep Active Learning Framework for Biomedical Image Segmentation (***2017***), *Jianxu Chen et al, MICCAI.* [pdf](https://arxiv.org/pdf/1706.04737.pdf)
+5. LadderNET: Multi-path networks based on U-Net for medical image segmentation (***2018***), *Juntang Zhuang, Arxiv.* [pdf](https://arxiv.org/pdf/1810.07810.pdf)
+
 
 ### Generative Adversarial Networks
 1. Medical Image Synthesis with Context-Aware Generative Adversarial Networks (***2016, image synthesis***&#x1F31E;), *Dong Nie et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66179-7_48.pdf)
