@@ -36,7 +36,7 @@
 5. BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation, *Changqian Yu et al, ECCV.* [pdf](https://arxiv.org/pdf/1808.00897.pdf)
 6. Context Contrasted Feature and Gated Multi-scale Aggregation for Scene Segmentation, *Henghui Ding et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Context_Contrasted_Feature_CVPR_2018_paper.pdf)
 7. CCNet: Criss-Cross Attention for Semantic Segmentation, *Zilong Huang et al, Arxiv.* [pdf](https://arxiv.org/pdf/1811.11721.pdf)
-8. &#x1F352;DenseASPP for Semantic Segmentation in Street Scenes, *Maoke Yang et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
+8. DenseASPP for Semantic Segmentation in Street Scenes, *Maoke Yang et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf) &#x1F352;&#x1F352;&#x1F367;
 9. Context Encoding for Semantic Segmentation, *Hang Zhang et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Context_Encoding_for_CVPR_2018_paper.pdf)
 10. PSANet: Point-wise Spatial Attention Network for Scene Parsing, *Hengshuang Zhao et al, ECCV.* [pdf](https://hszhao.github.io/papers/eccv18_psanet.pdf)
 11. Multi-Scale Context Intertwining for Semantic Segmentation, *Di Lin et al, ECCV.* [pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf)
