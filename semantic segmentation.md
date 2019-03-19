@@ -22,6 +22,7 @@
 4. RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation, *Guosheng Lin et al, CVPR.* [pdf](https://arxiv.org/pdf/1611.06612.pdf)
 5. Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation, *Golnaz Ghiasi et al, ECCV.* [pdf](https://arxiv.org/pdf/1605.02264.pdf)
 6. Attention to Scale: Scale-aware Semantic Image Segmentation, *Liang-Chieh Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1511.03339.pdf)
+7. ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation, *Adam Paszke et al, Arxiv.* [pdf](https://arxiv.org/pdf/1606.02147.pdf)
 
 ### 2017
 1. Rethinking Atrous Convolution for Semantic Image Segmentation, *Liang-Chieh Chen et al, Technical report.* [pdf](https://arxiv.org/pdf/1706.05587.pdf)
