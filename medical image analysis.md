@@ -6,6 +6,7 @@
 3. Neuron Segmentation Using Deep Complete Bipartite Networks (***2017*** &#x1F341;), *Jianxu Chen et al, MICCAI.* [pdf](https://arxiv.org/pdf/1705.11053.pdf)
 4. Suggestive Annotation: A Deep Active Learning Framework for Biomedical Image Segmentation (***2017***), *Jianxu Chen et al, MICCAI.* [pdf](https://arxiv.org/pdf/1706.04737.pdf)
 5. LadderNET: Multi-path networks based on U-Net for medical image segmentation (***2018***), *Juntang Zhuang, Arxiv.* [pdf](https://arxiv.org/pdf/1810.07810.pdf)
+1. Recurrent Residual Convolutional NeuralNetwork based on U-Net (R2U-Net) for Medical Image Segmentation (***2018***), *Md Zahangir Alom et al, Arxiv.* [pdf](https://arxiv.org/pdf/1802.06955.pdf)
 
 
 ### Generative Adversarial Networks
