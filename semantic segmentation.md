@@ -29,7 +29,7 @@
 2. Large Kernel Matters —— Improve Semantic Segmentation by Global Convolutional Network, *Chao Peng et al, CVPR.* [pdf](https://arxiv.org/pdf/1703.02719.pdf)
 3. Pyramid Scene Parsing Network, *Hengshuang Zhao et al, CVPR.* [pdf](https://arxiv.org/pdf/1612.01105.pdf)
 4. The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation, *Simon Jegou et al, CVPR.* [pdf](https://arxiv.org/pdf/1611.09326.pdf) &#x1F340;&#x1F340;&#x1F349;
-5. LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation, *Abhishek Chaurasia et al, Arxiv.* [pdf](https://arxiv.org/pdf/1504.06375.pdf)
+5. LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation, *Abhishek Chaurasia et al, Arxiv.* [pdf](https://arxiv.org/pdf/1707.03718.pdf)
 
 ### 2018
 1. Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation, *Liang-Chieh Chen et al, ECCV.* [pdf](https://arxiv.org/pdf/1802.02611.pdf)
