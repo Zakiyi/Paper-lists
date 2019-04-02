@@ -6,10 +6,10 @@
 
 **Multi-scale contextual information**
 * image pyramid
-* feature pyramid: dilation based; pooling based
-* skip connection: segnet(index), Unet, Tiramisu
-* multi layer prediction or feature fusion
-* long range dependencies capturing: MRF, CRF, RNN, self-attentation model
+* feature pyramid --- dilation based(DeepLab), pooling based(PSPNet)
+* skip connection --- Segnet, Unet, Tiramisu
+* multi layer prediction or feature fusion --- FCN, Hypercolumn
+* long range dependencies capturing --- MRF, CRF, RNN, self-attentation model
 
 ### 2015
 1. Fully Convolutional Networks for Semantic Segmentation, *Jonathan Long et al, CVPR.* [pdf](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) 
