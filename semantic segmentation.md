@@ -1,5 +1,13 @@
 ## Semantic Segmentation
-
+higher resoution feature map
+* dilation
+* encoder-decoder structure  
+multi-scale contextual
+* image pyramid
+* feature pyramid: dilation based; pooling based
+* skip connection: segnet(index), Unet, Tiramisu
+* multi layer prediction or feature fusion
+* long range dependencies capturing: MRF, CRF, RNN, self-attentation model
 ### 2015
 1. Fully Convolutional Networks for Semantic Segmentation, *Jonathan Long et al, CVPR.* [pdf](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) 
 2. Learning Deconvolution Network for Semantic Segmentation, *Hyeonwoo Noh et al, ICCV.* [pdf](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) 
