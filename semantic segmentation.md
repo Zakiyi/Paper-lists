@@ -1,7 +1,9 @@
 ## Semantic Segmentation
 **Higher resoution feature map**
+
 * dilation
 * encoder-decoder structure
+
 **Multi-scale contextual information**
 * image pyramid
 * feature pyramid: dilation based; pooling based
