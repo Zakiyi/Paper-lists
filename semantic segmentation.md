@@ -30,7 +30,7 @@
 3. Pyramid Scene Parsing Network, *Hengshuang Zhao et al, CVPR.* [pdf](https://arxiv.org/pdf/1612.01105.pdf)
 4. The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation, *Simon Jegou et al, CVPR.* [pdf](https://arxiv.org/pdf/1611.09326.pdf) &#x1F340;&#x1F340;&#x1F349;
 5. LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation, *Abhishek Chaurasia et al, Arxiv.* [pdf](https://arxiv.org/pdf/1707.03718.pdf)
-1. Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade, *Xiaoxiao Li et al, CVPR.* [pdf](https://arxiv.org/pdf/1704.01344.pdf)
+1. Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade, *Xiaoxiao Li et al, CVPR.* [pdf](https://arxiv.org/pdf/1704.01344.pdf) &#x1F340;&#x1F340;&#x1F349;
 
 ### 2018
 1. Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation, *Liang-Chieh Chen et al, ECCV.* [pdf](https://arxiv.org/pdf/1802.02611.pdf)
@@ -47,6 +47,6 @@
 12. Path Aggregation Network for Instance Segmentation, *Shu Liu et al, CVPR.* [pdf](https://arxiv.org/pdf/1803.01534.pdf)
 13. Understanding Convolution for Semantic Segmentation, *Panqu Wang et al, WACV.* [pdf](https://arxiv.org/pdf/1702.08502.pdf)
 14. The Devil is in the Decoder: Classification, Regression and GANs, *Zbigniew Wojna et al, BMVC* [pdf](https://arxiv.org/pdf/1707.05847.pdf)
-1. ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation, *Sachin Mehta et al, ECCV.* [pdf](https://arxiv.org/pdf/1803.06815.pdf) &#x1F680;&#x1F680;&#x1F680;&#x23F0;&#x23F0;
+1. ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation, *Sachin Mehta et al, ECCV.* [pdf](https://arxiv.org/pdf/1803.06815.pdf) &#x1F680;&#x1F680;&#x23F0;
 ### 2019
 1. Hybrid Task Cascade for Instance Segmentation, *Kai Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.07518.pdf)
