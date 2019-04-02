@@ -1,5 +1,5 @@
 ## Semantic Segmentation
-**Higher resoution feature map**
+**Higher resoution or denser feature map**
 
 * dilation
 * encoder-decoder structure
