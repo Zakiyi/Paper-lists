@@ -1,8 +1,8 @@
 ## Semantic Segmentation
-**higher resoution feature map**
+**Higher resoution feature map**
 * dilation
-* encoder-decoder structure  
-**multi-scale contextual**
+* encoder-decoder structure
+**Multi-scale contextual information**
 * image pyramid
 * feature pyramid: dilation based; pooling based
 * skip connection: segnet(index), Unet, Tiramisu
