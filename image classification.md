@@ -3,7 +3,7 @@
 ### General Convolutional Neural Networks
 
 
-### general image classification
+### General Image Classification
 1. Residual Attention Network for Image Classification, *Fei Wang et al, CVPR.*[pdf](https://arxiv.org/pdf/1704.06904.pdf)
 1. Introspective Classification with Convolutional Nets, *Long Jin et al, NIPS.* [pdf](https://papers.nips.cc/paper/6684-introspective-classification-with-convolutional-nets.pdf)
 1. Non-local Neural Networks, *Xiaolong Wang et al, CVPR.* [pdf](https://arxiv.org/pdf/1711.07971.pdf)
