@@ -11,7 +11,7 @@
 * multi layer prediction or feature fusion --- FCN, Hypercolumn
 * long range dependencies capturing --- MRF, CRF, RNN, self-attentation model
 
-### Fully Supervised
+### Fully Supervised Segmentation
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2015**
 1. Fully Convolutional Networks for Semantic Segmentation, *Jonathan Long et al, CVPR.* [pdf](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) 
@@ -65,3 +65,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**2019**
 1. Hybrid Task Cascade for Instance Segmentation, *Kai Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.07518.pdf)
 
+### Weakly Supervised Segmentation
+&nbsp;&nbsp;&nbsp;&nbsp;**2018**
+1. Revisiting Dilated Convolution: A Simple Approach for Weakly- and SemiSupervised Semantic Segmentation, *Yunchao Wei et al, CVPR*.
+[pdf](https://arxiv.org/pdf/1805.04574.pdf)
