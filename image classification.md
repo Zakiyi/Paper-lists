@@ -1,6 +1,6 @@
 ## Image Classification & Network Design
 
-### General Convolutional networks
+### General Convolutional Neural Networks
 
 
 ### general image classification
