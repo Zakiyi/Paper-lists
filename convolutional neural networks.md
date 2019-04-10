@@ -8,7 +8,7 @@
 1. Very Deep Convolutional Networks For Large-Scale Image Recognition, *Karen Simonyan et al, ICLR* **2015**. [pdf](https://arxiv.org/pdf/1409.1556.pdf)
 1. Going Deeper with Convolutions, *Christian Szegedy et al, CVPR* **2015**. [pdf](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
 1. Deep Residual Learning for Image Recognition, *Kaiming He et al, CVPR* **2016**. [pdf](https://arxiv.org/pdf/1512.03385.pdf)
-1. Rethinking the Inception Architecture for Computer Vision, *Christian Szegedy et al, CVPR* **2016**. [pdf](https://arxiv.org/pdf/1512.00567.pdf)
+1. Rethinking the Inception Architecture for Computer Vision, *Christian Szegedy et al, CVPR* **2016**. [pdf](https://arxiv.org/pdf/1512.00567.pdf)  
 
 **2017**
 1. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, *Christian Szegedy et al, AAAI*. [pdf](https://arxiv.org/pdf/1602.07261.pdf)
