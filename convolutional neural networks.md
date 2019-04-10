@@ -1,6 +1,7 @@
 ## General CNN Architectures & Visualization & Interpretation
 
 ### Convolutional Neural Networks
+&nbsp;&nbsp;&nbsp;&nbsp;**2012-2016**
 1. ImageNet Classification with Deep Convolutional Neural Networks, *Alex Krizhevsky et al, NIPS* **2012**. [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 1. Visualizing and Understanding Convolutional Networks, *Matthew D. Zeiler et al, ECCV* **2014**. [pdf](https://arxiv.org/pdf/1311.2901.pdf) 
 1. Network In Network, *Min Lin et al, ICLR* **2014**. [pdf](https://arxiv.org/pdf/1312.4400.pdf)
@@ -17,7 +18,7 @@
 1. Deformable Convolutional Networks, *Jifeng Dai et al, ICCV*. [pdf](https://arxiv.org/pdf/1703.06211.pdf)
 1. Dynamic Routing Between Capsules, *Sara Sabour et al, NIPS*. [pdf](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)
 
-**2018**
+&nbsp;&nbsp;&nbsp;&nbsp;**2018**
 1. Deformable ConvNets v2: More Deformable, Better Results, *Xizhou Zhu et al, Arxiv*. [pdf](https://arxiv.org/pdf/1811.11168.pdf)
 1. Squeeze-and-Excitation Networks, *Jie Hu et al, CVPR*. [pdf](https://arxiv.org/pdf/1709.01507.pdf)
 1. CondenseNet: An Efficient DenseNet using Learned Group Convolutions, *Gao Huang et al, CVPR*. [pdf](https://arxiv.org/pdf/1711.09224.pdf)
