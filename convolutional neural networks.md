@@ -6,6 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2012-2016**
 1. ImageNet Classification with Deep Convolutional Neural Networks, *Alex Krizhevsky et al, NIPS* 2012. [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+1. PCANet: A Simple Deep Learning Baseline for Image Classification? *Tsung-Han Chan et al, IEEE TIP*. [pdf](https://arxiv.org/pdf/1404.3606.pdf)
 1. Visualizing and Understanding Convolutional Networks, *Matthew D. Zeiler et al, ECCV* 2014. [pdf](https://arxiv.org/pdf/1311.2901.pdf)
 1. Network In Network, *Min Lin et al, ICLR* 2014. [pdf](https://arxiv.org/pdf/1312.4400.pdf)
 1. Deeply-Supervised Nets, *Chen-Yu Lee et al, AISTATS* 2015. [pdf](https://chl260.github.io/PDF/Lee_AISTATS15.pdf)
