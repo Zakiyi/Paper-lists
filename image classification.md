@@ -1,7 +1,7 @@
 ## Image Classification & Network Design
 
 ### Convolutional Neural Networks
-1. Rethinking the Inception Architecture for Computer Vision, *Christian Szegedy et al, *Christian Szegedy et al, CVPR* **2016**. [pdf](https://arxiv.org/pdf/1512.00567.pdf)
+1. Rethinking the Inception Architecture for Computer Vision, *Christian Szegedy et al, CVPR* **2016**. [pdf](https://arxiv.org/pdf/1512.00567.pdf)
 1. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, *Christian Szegedy et al, AAAI* **2017**. [pdf](https://arxiv.org/pdf/1602.07261.pdf)
 1. Aggregated Residual Transformations for Deep Neural Networks, *Saining Xie et al, CVPR* **2017**. [pdf](https://arxiv.org/pdf/1611.05431.pdf)
 
