@@ -6,7 +6,7 @@
 1. Aggregated Residual Transformations for Deep Neural Networks, *Saining Xie et al, CVPR* **2017**. [pdf](https://arxiv.org/pdf/1611.05431.pdf)
 1. Squeeze-and-Excitation Networks, *Jie Hu et al, CVPR* **2018**. [pdf](https://arxiv.org/pdf/1709.01507.pdf)
 1. Learning Transferable Architectures for Scalable Image Recognition, *Barret Zoph et al, CVPR* **2018**. [pdf](https://arxiv.org/pdf/1707.07012.pdf)
-1. Selective Kernel Networks, *Xiang Li et al, CVPR* **2019**. [pdf] https://arxiv.org/pdf/1903.06586.pdf
+1. Selective Kernel Networks, *Xiang Li et al, CVPR* **2019**. [pdf](https://arxiv.org/pdf/1903.06586.pdf)
 
 ### General Image Classification
 1. Residual Attention Network for Image Classification, *Fei Wang et al, CVPR* **2017**. [pdf](https://arxiv.org/pdf/1704.06904.pdf)
