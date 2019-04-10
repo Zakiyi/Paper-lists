@@ -11,4 +11,4 @@
 1. CBAM: Convolutional Block Attention Module, *Sanghyun Woo et al, ECCV 2018.* [pdf](https://arxiv.org/abs/1807.06521)
 
 ### Fine-grained Image Classification
-1. Look Closer to See Better: Recurrent Attention Convolutional Neural Network for Fine-grained Image Recognition, *Jianlong Fu et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf)
+1. Look Closer to See Better: Recurrent Attention Convolutional Neural Network for Fine-grained Image Recognition, *Jianlong Fu et al, CVPR 2017.* [pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf)
