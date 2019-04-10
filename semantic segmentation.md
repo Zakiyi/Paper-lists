@@ -61,3 +61,4 @@
 1. ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation, *Sachin Mehta et al, ECCV.* [pdf](https://arxiv.org/pdf/1803.06815.pdf) &#x1F680;&#x1F680;&#x23F0;
 ### 2019
 1. Hybrid Task Cascade for Instance Segmentation, *Kai Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.07518.pdf)
+
