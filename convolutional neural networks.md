@@ -30,3 +30,4 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2019**
 1. Selective Kernel Networks, *Xiang Li et al, CVPR*. [pdf](https://arxiv.org/pdf/1903.06586.pdf)
+1. Exploring Randomly Wired Neural Networks for Image Recognition, *Saining Xie et al, Arxiv*. [pdf](https://arxiv.org/pdf/1904.01569.pdf)
