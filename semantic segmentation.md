@@ -11,7 +11,9 @@
 * multi layer prediction or feature fusion --- FCN, Hypercolumn
 * long range dependencies capturing --- MRF, CRF, RNN, self-attentation model
 
-### 2015
+### Fully Supervised
+
+&nbsp;&nbsp;&nbsp;&nbsp;**2015**
 1. Fully Convolutional Networks for Semantic Segmentation, *Jonathan Long et al, CVPR.* [pdf](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) 
 2. Learning Deconvolution Network for Semantic Segmentation, *Hyeonwoo Noh et al, ICCV.* [pdf](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) 
 3. Hypercolumns for Object Segmentation and Fine Grained Localization, *Bharath Harihara et al, ICCV.* [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hariharan_Hypercolumns_for_Object_2015_CVPR_paper.pdf)
@@ -26,7 +28,7 @@
 12. DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, *Gedas Bertasius et al, CVPR.* [pdf](https://arxiv.org/pdf/1412.1123.pdf)
 13. Holistically-Nested Edge Detection, *Saining Xie et al, ICCV.* [pdf](https://arxiv.org/pdf/1504.06375.pdf)
 
-### 2016
+&nbsp;&nbsp;&nbsp;&nbsp;**2016**
 1. Multi-Scale Context Aggregation by Dilated Convolutions, *Fisher Yu et al, ICLR.* [pdf](http://vladlen.info/papers/dilated-convolutions.pdf)
 2. Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding, *Alex Kendall et al, BMVC.* [pdf](https://arxiv.org/pdf/1511.02680.pdf)
 3. Attention to Scale: Scale-aware Semantic Image Segmentation, *Liang-Chieh Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1511.03339.pdf)
@@ -35,7 +37,7 @@
 6. Attention to Scale: Scale-aware Semantic Image Segmentation, *Liang-Chieh Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1511.03339.pdf)
 7. ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation, *Adam Paszke et al, Arxiv.* [pdf](https://arxiv.org/pdf/1606.02147.pdf) &#x1F680;&#x1F680;&#x23F0;
 
-### 2017
+&nbsp;&nbsp;&nbsp;&nbsp;**2016**
 1. Rethinking Atrous Convolution for Semantic Image Segmentation, *Liang-Chieh Chen et al, Technical report.* [pdf](https://arxiv.org/pdf/1706.05587.pdf)
 2. Large Kernel Matters —— Improve Semantic Segmentation by Global Convolutional Network, *Chao Peng et al, CVPR.* [pdf](https://arxiv.org/pdf/1703.02719.pdf)
 3. Pyramid Scene Parsing Network, *Hengshuang Zhao et al, CVPR.* [pdf](https://arxiv.org/pdf/1612.01105.pdf) &#x1F340;&#x1F349;&#x1F349;&#x1F349;&#x1F349;
@@ -43,7 +45,7 @@
 5. LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation, *Abhishek Chaurasia et al, Arxiv.* [pdf](https://arxiv.org/pdf/1707.03718.pdf)
 1. Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade, *Xiaoxiao Li et al, CVPR.* [pdf](https://arxiv.org/pdf/1704.01344.pdf) &#x1F340;&#x1F340;&#x1F340;&#x1F349;&#x1F349;
 
-### 2018
+&nbsp;&nbsp;&nbsp;&nbsp;**2018**
 1. Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation, *Liang-Chieh Chen et al, ECCV.* [pdf](https://arxiv.org/pdf/1802.02611.pdf)
 2. Searching for Efficient Multi-Scale Architectures for Dense Image Prediction, *Liang-Chieh Chen et al, NIPS.* [pdf](https://arxiv.org/pdf/1809.04184.pdf)
 3. Pyramid Attention Network for Semantic Segmentation, *Hanchao Li et al, BMVC.* [pdf](https://arxiv.org/pdf/1805.10180.pdf)
@@ -59,6 +61,7 @@
 13. Understanding Convolution for Semantic Segmentation, *Panqu Wang et al, WACV.* [pdf](https://arxiv.org/pdf/1702.08502.pdf)
 14. The Devil is in the Decoder: Classification, Regression and GANs, *Zbigniew Wojna et al, BMVC* [pdf](https://arxiv.org/pdf/1707.05847.pdf)
 1. ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation, *Sachin Mehta et al, ECCV.* [pdf](https://arxiv.org/pdf/1803.06815.pdf) &#x1F680;&#x1F680;&#x23F0;
-### 2019
+
+&nbsp;&nbsp;&nbsp;&nbsp;**2019**
 1. Hybrid Task Cascade for Instance Segmentation, *Kai Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.07518.pdf)
 
