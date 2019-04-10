@@ -1,23 +1,5 @@
 ## Image Classification & Network Design
 
-### Convolutional Neural Networks
-1. ImageNet Classification with Deep Convolutional Neural Networks, *Alex Krizhevsky et al, NIPS* **2012**. [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-1. Visualizing and Understanding Convolutional Networks, *Matthew D. Zeiler et al, ECCV* **2014**. [pdf](https://arxiv.org/pdf/1311.2901.pdf) 
-1. Network In Network, *Min Lin et al, ICLR* **2014**. [pdf](https://arxiv.org/pdf/1312.4400.pdf)
-1. Highway Networks, *R. K. Srivastava et al ICML* **2015**. [pdf](https://arxiv.org/pdf/1505.00387.pdf)
-1. Very Deep Convolutional Networks For Large-Scale Image Recognition, *Karen Simonyan et al, ICLR* **2015**. [pdf](https://arxiv.org/pdf/1409.1556.pdf)
-1. Going Deeper with Convolutions, *Christian Szegedy et al, CVPR* **2015**. [pdf](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
-1. Deep Residual Learning for Image Recognition, *Kaiming He et al, CVPR* **2016**. [pdf](https://arxiv.org/pdf/1512.03385.pdf)
-1. Rethinking the Inception Architecture for Computer Vision, *Christian Szegedy et al, CVPR* **2016**. [pdf](https://arxiv.org/pdf/1512.00567.pdf)
-1. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, *Christian Szegedy et al, AAAI* **2017**. [pdf](https://arxiv.org/pdf/1602.07261.pdf)
-1. Aggregated Residual Transformations for Deep Neural Networks, *Saining Xie et al, CVPR* **2017**. [pdf](https://arxiv.org/pdf/1611.05431.pdf)
-1. Densely Connected Convolutional Networks, *Gao Huang et al, CVPR* **2017**. [pdf](https://arxiv.org/pdf/1608.06993.pdf)
-1. Dynamic Routing Between Capsules, *Sara Sabour et al, NIPS* **2017**. [pdf](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)
-1. Squeeze-and-Excitation Networks, *Jie Hu et al, CVPR* **2018**. [pdf](https://arxiv.org/pdf/1709.01507.pdf)
-1. CondenseNet: An Efficient DenseNet using Learned Group Convolutions, *Gao Huang et al, CVPR* **2018**. [pdf](https://arxiv.org/pdf/1711.09224.pdf)
-1. Learning Transferable Architectures for Scalable Image Recognition (**NASNet**), *Barret Zoph et al, CVPR* **2018**. [pdf](https://arxiv.org/pdf/1707.07012.pdf)
-1. Selective Kernel Networks, *Xiang Li et al, CVPR* **2019**. [pdf](https://arxiv.org/pdf/1903.06586.pdf)
-
 ### General Image Classification
 1. Residual Attention Network for Image Classification, *Fei Wang et al, CVPR* **2017**. [pdf](https://arxiv.org/pdf/1704.06904.pdf)
 1. Introspective Classification with Convolutional Nets, *Long Jin et al, NIPS* **2017**. [pdf](https://papers.nips.cc/paper/6684-introspective-classification-with-convolutional-nets.pdf)
