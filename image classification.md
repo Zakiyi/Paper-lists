@@ -1,7 +1,8 @@
 ## Image Classification & Network Design
 
 ### General Convolutional Neural Networks
-
+1. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, *Christian Szegedy et al, AAAI* **2017**. [pdf](https://arxiv.org/pdf/1602.07261.pdf)
+1. Aggregated Residual Transformations for Deep Neural Networks, *Saining Xie et al, CVPR* **2017**. [pdf](https://arxiv.org/pdf/1611.05431.pdf)
 
 ### General Image Classification
 1. Residual Attention Network for Image Classification, *Fei Wang et al, CVPR* **2017**. [pdf](https://arxiv.org/pdf/1704.06904.pdf)
