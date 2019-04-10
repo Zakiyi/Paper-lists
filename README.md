@@ -1,7 +1,7 @@
 # Reading-lists
 Papers list of deep learning and machine lerning in computer vision
 ## Contents
-* [General CNN Architectures & Visualization & Interpretation](https://github.com/Zakiyi/Paper-lists/blob/master/convolutional%20neural%20networks.md) 
+* [General CNN Models](https://github.com/Zakiyi/Paper-lists/blob/master/convolutional%20neural%20networks.md) 
 * [Image classification](https://github.com/Zakiyi/Paper-lists/blob/master/image%20classification.md)
 * [Image segmentation](https://github.com/Zakiyi/Paper-lists/blob/master/semantic%20segmentation.md)
 * Object detection
