@@ -12,3 +12,4 @@
 
 ### Fine-grained Image Classification
 1. Look Closer to See Better: Recurrent Attention Convolutional Neural Network for Fine-grained Image Recognition, *Jianlong Fu et al, CVPR 2017.* [pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf)
+1. Learning Multi-Attention Convolutional Neural Network for Fine-Grained Image Recognition, *Heliang Zheng et al, ICCV 2017.* [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf)
