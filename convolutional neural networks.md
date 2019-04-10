@@ -1,6 +1,8 @@
 ## General CNN Architectures & Visualization & Interpretation
 
 ### Convolutional Neural Networks
+&nbsp;&nbsp;&nbsp;&nbsp;**Review / Survey of deep models**
+1. Recent Advances in Convolutional Neural Networks, *Jiuxiang Gu et al, Pattern Recognition* *2017*. [pdf](https://reader.elsevier.com/reader/sd/pii/S0031320317304120?token=106FDF6803F64264A80962850E808CE382F6ACA19A91E8F2A72B3407A083A6C86149FD1B652AB48367BA2EEAB64D3564)
 &nbsp;&nbsp;&nbsp;&nbsp;**2012-2016**
 1. ImageNet Classification with Deep Convolutional Neural Networks, *Alex Krizhevsky et al, NIPS* 2012. [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 1. Visualizing and Understanding Convolutional Networks, *Matthew D. Zeiler et al, ECCV* 2014. [pdf](https://arxiv.org/pdf/1311.2901.pdf) 
