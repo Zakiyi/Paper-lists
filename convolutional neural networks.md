@@ -24,5 +24,5 @@
 1. CondenseNet: An Efficient DenseNet using Learned Group Convolutions, *Gao Huang et al, CVPR*. [pdf](https://arxiv.org/pdf/1711.09224.pdf)
 1. Learning Transferable Architectures for Scalable Image Recognition (**NASNet**), *Barret Zoph et al, CVPR*. [pdf](https://arxiv.org/pdf/1707.07012.pdf)
 
-**2019**
+&nbsp;&nbsp;&nbsp;&nbsp;**2019**
 1. Selective Kernel Networks, *Xiang Li et al, CVPR*. [pdf](https://arxiv.org/pdf/1903.06586.pdf)
