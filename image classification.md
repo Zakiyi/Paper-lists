@@ -1,6 +1,10 @@
 ## Image Classification & Network Design
 
 ### Convolutional Neural Networks
+1. ImageNet Classification with Deep Convolutional Neural Networks, *Alex Krizhevsky et al, NIPS* **2012**. [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+1. Visualizing and Understanding Convolutional Networks, *Matthew D. Zeiler et al, ECCV* **2014**. [pdf](https://arxiv.org/pdf/1311.2901.pdf) 
+1. Highway Networks, *R. K. Srivastava et al ICML* **2015**. [pdf](https://arxiv.org/pdf/1505.00387.pdf)
+1. Very Deep Convolutional Networks For Large-Scale Image Recognition, *Karen Simonyan et al, ICLR* **2015**. [pdf](https://arxiv.org/pdf/1409.1556.pdf)
 1. Rethinking the Inception Architecture for Computer Vision, *Christian Szegedy et al, CVPR* **2016**. [pdf](https://arxiv.org/pdf/1512.00567.pdf)
 1. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, *Christian Szegedy et al, AAAI* **2017**. [pdf](https://arxiv.org/pdf/1602.07261.pdf)
 1. Aggregated Residual Transformations for Deep Neural Networks, *Saining Xie et al, CVPR* **2017**. [pdf](https://arxiv.org/pdf/1611.05431.pdf)
