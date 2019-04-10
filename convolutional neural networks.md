@@ -10,7 +10,7 @@
 1. Deep Residual Learning for Image Recognition, *Kaiming He et al, CVPR* **2016**. [pdf](https://arxiv.org/pdf/1512.03385.pdf)
 1. Rethinking the Inception Architecture for Computer Vision, *Christian Szegedy et al, CVPR* **2016**. [pdf](https://arxiv.org/pdf/1512.00567.pdf)  
 
-&nbsp**2017**
+&nbsp;**2017**
 1. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, *Christian Szegedy et al, AAAI*. [pdf](https://arxiv.org/pdf/1602.07261.pdf)
 1. Aggregated Residual Transformations for Deep Neural Networks, *Saining Xie et al, CVPR*. [pdf](https://arxiv.org/pdf/1611.05431.pdf)
 1. Densely Connected Convolutional Networks, *Gao Huang et al, CVPR*. [pdf](https://arxiv.org/pdf/1608.06993.pdf)
