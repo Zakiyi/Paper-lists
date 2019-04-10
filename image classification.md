@@ -4,6 +4,7 @@
 1. Rethinking the Inception Architecture for Computer Vision, *Christian Szegedy et al, CVPR* **2016**. [pdf](https://arxiv.org/pdf/1512.00567.pdf)
 1. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, *Christian Szegedy et al, AAAI* **2017**. [pdf](https://arxiv.org/pdf/1602.07261.pdf)
 1. Aggregated Residual Transformations for Deep Neural Networks, *Saining Xie et al, CVPR* **2017**. [pdf](https://arxiv.org/pdf/1611.05431.pdf)
+1. Densely Connected Convolutional Networks, *Gao Huang et al, CVPR* **2017**. [pdf](https://arxiv.org/pdf/1608.06993.pdf)
 1. Squeeze-and-Excitation Networks, *Jie Hu et al, CVPR* **2018**. [pdf](https://arxiv.org/pdf/1709.01507.pdf)
 1. Learning Transferable Architectures for Scalable Image Recognition, *Barret Zoph et al, CVPR* **2018**. [pdf](https://arxiv.org/pdf/1707.07012.pdf)
 1. Selective Kernel Networks, *Xiang Li et al, CVPR* **2019**. [pdf](https://arxiv.org/pdf/1903.06586.pdf)
