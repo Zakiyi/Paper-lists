@@ -16,10 +16,12 @@
 1. Densely Connected Convolutional Networks, *Gao Huang et al, CVPR*. [pdf](https://arxiv.org/pdf/1608.06993.pdf)
 1. Deformable Convolutional Networks, *Jifeng Dai et al, ICCV*. [pdf](https://arxiv.org/pdf/1703.06211.pdf)
 1. Dynamic Routing Between Capsules, *Sara Sabour et al, NIPS*. [pdf](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)
+
 **2018**
 1. Deformable ConvNets v2: More Deformable, Better Results, *Xizhou Zhu et al, Arxiv*. [pdf](https://arxiv.org/pdf/1811.11168.pdf)
 1. Squeeze-and-Excitation Networks, *Jie Hu et al, CVPR*. [pdf](https://arxiv.org/pdf/1709.01507.pdf)
 1. CondenseNet: An Efficient DenseNet using Learned Group Convolutions, *Gao Huang et al, CVPR*. [pdf](https://arxiv.org/pdf/1711.09224.pdf)
 1. Learning Transferable Architectures for Scalable Image Recognition (**NASNet**), *Barret Zoph et al, CVPR*. [pdf](https://arxiv.org/pdf/1707.07012.pdf)
+
 **2019**
 1. Selective Kernel Networks, *Xiang Li et al, CVPR*. [pdf](https://arxiv.org/pdf/1903.06586.pdf)
