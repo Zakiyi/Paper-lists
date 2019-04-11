@@ -1,4 +1,4 @@
-## Image Classification & Network Design
+## Image Classification
 
 ### General Image Classification
 1. Residual Attention Network for Image Classification, *Fei Wang et al, CVPR* **2017**. [pdf](https://arxiv.org/pdf/1704.06904.pdf)
