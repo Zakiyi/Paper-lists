@@ -16,7 +16,7 @@
 1. Deep Residual Learning for Image Recognition, *Kaiming He et al, CVPR* 2016. [pdf](https://arxiv.org/pdf/1512.03385.pdf)
 1. Wide Residual Networks, *Sergey Zagoruyko et al, BMVC*. [pdf](https://arxiv.org/pdf/1603.09382v3.pdf)
 1. Rethinking the Inception Architecture for Computer Vision (**Inception v2 & v3**), *Christian Szegedy et al, CVPR* 2016. [pdf](https://arxiv.org/pdf/1512.00567.pdf)
-1. Deep pyramidal residual networks, *Dongyoon Han et al, CoRR* 2016. [pdf](https://arxiv.org/pdf/1610.02915.pdf) [related blog](http://torch.ch/blog/2016/02/04/resnets.html)
+1. Deep pyramidal residual networks, *Dongyoon Han et al, CoRR* 2016. [pdf](https://arxiv.org/pdf/1610.02915.pdf), [related blog](http://torch.ch/blog/2016/02/04/resnets.html)
 1. Identity Mappings in Deep Residual Networks, *Kaiming He et al, ECCV* 2016. [pdf](https://arxiv.org/pdf/1603.05027v3.pdf)
 1. Deep Networks with Stochastic Depth, *Gao Huang et al, ECCV*. [pdf](https://arxiv.org/pdf/1603.09382v3.pdf) 
 
