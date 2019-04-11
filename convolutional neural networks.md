@@ -14,7 +14,10 @@
 1. Very Deep Convolutional Networks For Large-Scale Image Recognition, *Karen Simonyan et al, ICLR* 2015. [pdf](https://arxiv.org/pdf/1409.1556.pdf)
 1. Going Deeper with Convolutions (**Inception v1**), *Christian Szegedy et al, CVPR* 2015. [pdf](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
 1. Deep Residual Learning for Image Recognition, *Kaiming He et al, CVPR* 2016. [pdf](https://arxiv.org/pdf/1512.03385.pdf)
-1. Rethinking the Inception Architecture for Computer Vision (**Inception v2 & v3**), *Christian Szegedy et al, CVPR* 2016. [pdf](https://arxiv.org/pdf/1512.00567.pdf)  
+1. Wide Residual Networks, *Sergey Zagoruyko et al, BMVC*. [pdf](https://arxiv.org/pdf/1603.09382v3.pdf)
+1. Rethinking the Inception Architecture for Computer Vision (**Inception v2 & v3**), *Christian Szegedy et al, CVPR* 2016. [pdf](https://arxiv.org/pdf/1512.00567.pdf)
+1. Identity Mappings in Deep Residual Networks, *Kaiming He et al, ECCV* 2016. [pdf](https://arxiv.org/pdf/1603.05027v3.pdf)
+1. Deep Networks with Stochastic Depth, *Gao Huang et al, ECCV*. [pdf](https://arxiv.org/pdf/1603.09382v3.pdf) 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2017**
 1. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, *Christian Szegedy et al, AAAI*. [pdf](https://arxiv.org/pdf/1602.07261.pdf)  [Review article of the Inception series](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)  
@@ -28,9 +31,11 @@
 1. Squeeze-and-Excitation Networks, *Jie Hu et al, CVPR*. [pdf](https://arxiv.org/pdf/1709.01507.pdf)
 1. CondenseNet: An Efficient DenseNet using Learned Group Convolutions, *Gao Huang et al, CVPR*. [pdf](https://arxiv.org/pdf/1711.09224.pdf)
 1. Learning Transferable Architectures for Scalable Image Recognition (**NASNet**), *Barret Zoph et al, CVPR*. [pdf](https://arxiv.org/pdf/1707.07012.pdf)
+1. ResNet Sparsifier: Learning Strict Identity Mappings in Deep Residual Networks, *Xin Yu et al, CVPR*. [pdf](https://arxiv.org/pdf/1804.01661v4.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2019**
 1. Selective Kernel Networks, *Xiang Li et al, CVPR*. [pdf](https://arxiv.org/pdf/1903.06586.pdf)
+1. Res2Net: A New Multi-scale Backbone Architecture, *Shang-Hua Gao et al, Arxiv*. [pdf](https://arxiv.org/pdf/1904.01169.pdf)
 1. Exploring Randomly Wired Neural Networks for Image Recognition, *Saining Xie et al, Arxiv*. [pdf](https://arxiv.org/pdf/1904.01569.pdf)
 
 ## Visualization
@@ -39,3 +44,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Inspiring articles & reports**
 1. Deep learning and shallow data, [Piekniewski's blog](https://blog.piekniewski.info/2019/04/07/deep-learning-and-shallow-data/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Publications**
+1. Residual Networks Behave Like Ensembles of Relatively Shallow Networks, *Andreas Veit et al, NIPS* **2016**. [pdf](https://arxiv.org/pdf/1605.06431v2.pdf)
