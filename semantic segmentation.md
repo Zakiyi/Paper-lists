@@ -37,7 +37,7 @@
 6. Attention to Scale: Scale-aware Semantic Image Segmentation, *Liang-Chieh Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1511.03339.pdf)
 7. ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation, *Adam Paszke et al, Arxiv.* [pdf](https://arxiv.org/pdf/1606.02147.pdf) &#x1F680;&#x1F680;&#x23F0;
 
-&nbsp;&nbsp;&nbsp;&nbsp;**2016**
+&nbsp;&nbsp;&nbsp;&nbsp;**2017**
 1. Rethinking Atrous Convolution for Semantic Image Segmentation, *Liang-Chieh Chen et al, Technical report.* [pdf](https://arxiv.org/pdf/1706.05587.pdf)
 2. Large Kernel Matters —— Improve Semantic Segmentation by Global Convolutional Network, *Chao Peng et al, CVPR.* [pdf](https://arxiv.org/pdf/1703.02719.pdf)
 3. Pyramid Scene Parsing Network, *Hengshuang Zhao et al, CVPR.* [pdf](https://arxiv.org/pdf/1612.01105.pdf) &#x1F340;&#x1F349;&#x1F349;&#x1F349;&#x1F349;
