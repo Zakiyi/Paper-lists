@@ -4,9 +4,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**Review papers of deep models**
 1. Recent Advances in Convolutional Neural Networks, *Jiuxiang Gu et al, Pattern Recognition* *2017*. [pdf](https://reader.elsevier.com/reader/sd/pii/S0031320317304120?token=106FDF6803F64264A80962850E808CE382F6ACA19A91E8F2A72B3407A083A6C86149FD1B652AB48367BA2EEAB64D3564)
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Inspiring articles & reports**
-1. Deep learning and shallow data, [Piekniewski's blog](https://blog.piekniewski.info/2019/04/07/deep-learning-and-shallow-data/)
-
 &nbsp;&nbsp;&nbsp;&nbsp;**2012-2016**
 1. ImageNet Classification with Deep Convolutional Neural Networks, *Alex Krizhevsky et al, NIPS* 2012. [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 1. PCANet: A Simple Deep Learning Baseline for Image Classification? *Tsung-Han Chan et al, IEEE TIP* 2013. [pdf](https://arxiv.org/pdf/1404.3606.pdf)
@@ -35,3 +32,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**2019**
 1. Selective Kernel Networks, *Xiang Li et al, CVPR*. [pdf](https://arxiv.org/pdf/1903.06586.pdf)
 1. Exploring Randomly Wired Neural Networks for Image Recognition, *Saining Xie et al, Arxiv*. [pdf](https://arxiv.org/pdf/1904.01569.pdf)
+
+## Visualization
+
+## Interpretation
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Inspiring articles & reports**
+1. Deep learning and shallow data, [Piekniewski's blog](https://blog.piekniewski.info/2019/04/07/deep-learning-and-shallow-data/)
