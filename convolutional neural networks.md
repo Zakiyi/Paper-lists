@@ -1,4 +1,4 @@
-## General CNN Architectures & Visualization & Interpretation
+## General CNN Architectures & Understanding & Interpretation
 
 ### Convolutional Neural Networks
 &nbsp;&nbsp;&nbsp;&nbsp;**Review papers of deep models**
