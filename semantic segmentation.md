@@ -30,6 +30,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2016**
 1. Multi-Scale Context Aggregation by Dilated Convolutions, *Fisher Yu et al, ICLR.* [pdf](http://vladlen.info/papers/dilated-convolutions.pdf)
+1. Iterative Instance Segmentation, *Ke Li et al, CVPR*. [pdf](https://arxiv.org/pdf/1511.08498.pdf)
 2. Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding, *Alex Kendall et al, BMVC.* [pdf](https://arxiv.org/pdf/1511.02680.pdf)
 3. Attention to Scale: Scale-aware Semantic Image Segmentation, *Liang-Chieh Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1511.03339.pdf)
 4. RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation, *Guosheng Lin et al, CVPR.* [pdf](https://arxiv.org/pdf/1611.06612.pdf)
@@ -64,6 +65,7 @@
 14. The Devil is in the Decoder: Classification, Regression and GANs, *Zbigniew Wojna et al, BMVC* [pdf](https://arxiv.org/pdf/1707.05847.pdf)
 1. ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation, *Sachin Mehta et al, ECCV.* [pdf](https://arxiv.org/pdf/1803.06815.pdf) &#x1F680;&#x1F680;&#x23F0;
 1. CU-Net: Coupled U-Nets, *Zhiqiang Tang et al, BMVC*. [pdf](https://arxiv.org/pdf/1808.06521.pdf)
+1. Stacked U-Nets: A No-Frills Approach to Natural Image Segmentation, *Sohil Shah et al, Arxiv*. [pdf](https://arxiv.org/pdf/1804.10343v1.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2019**
 1. Hybrid Task Cascade for Instance Segmentation, *Kai Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.07518.pdf)
