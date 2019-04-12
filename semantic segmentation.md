@@ -45,6 +45,7 @@
 4. The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation, *Simon Jegou et al, CVPR.* [pdf](https://arxiv.org/pdf/1611.09326.pdf) &#x1F35A;&#x1F35A;&#x1F349;&#x1F349;
 5. LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation, *Abhishek Chaurasia et al, Arxiv.* [pdf](https://arxiv.org/pdf/1707.03718.pdf)
 1. Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade, *Xiaoxiao Li et al, CVPR.* [pdf](https://arxiv.org/pdf/1704.01344.pdf) &#x1F340;&#x1F340;&#x1F340;&#x1F349;&#x1F349;
+1. Scale-adaptive Convolutions for Scene Parsing, *Rui Zhang et al, ICCV*. [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Scale-Adaptive_Convolutions_for_ICCV_2017_paper.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2018**
 1. Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation, *Liang-Chieh Chen et al, ECCV.* [pdf](https://arxiv.org/pdf/1802.02611.pdf)
