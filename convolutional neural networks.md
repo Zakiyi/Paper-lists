@@ -26,6 +26,7 @@
 1. Densely Connected Convolutional Networks, *Gao Huang et al, CVPR*. [pdf](https://arxiv.org/pdf/1608.06993.pdf)
 1. Deformable Convolutional Networks, *Jifeng Dai et al, ICCV*. [pdf](https://arxiv.org/pdf/1703.06211.pdf)
 1. Dynamic Routing Between Capsules, *Sara Sabour et al, NIPS*. [pdf](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)
+1. Dilated Residual Networks, *Fisher Yu et al, CVPR*. [pdf](https://arxiv.org/pdf/1705.09914.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2018**
 1. Deformable ConvNets v2: More Deformable, Better Results, *Xizhou Zhu et al, Arxiv*. [pdf](https://arxiv.org/pdf/1811.11168.pdf)
