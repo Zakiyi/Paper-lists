@@ -61,6 +61,7 @@
 13. Understanding Convolution for Semantic Segmentation, *Panqu Wang et al, WACV.* [pdf](https://arxiv.org/pdf/1702.08502.pdf)
 14. The Devil is in the Decoder: Classification, Regression and GANs, *Zbigniew Wojna et al, BMVC* [pdf](https://arxiv.org/pdf/1707.05847.pdf)
 1. ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation, *Sachin Mehta et al, ECCV.* [pdf](https://arxiv.org/pdf/1803.06815.pdf) &#x1F680;&#x1F680;&#x23F0;
+1. CU-Net: Coupled U-Nets, *Zhiqiang Tang et al, BMVC*. [pdf](https://arxiv.org/pdf/1808.06521.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2019**
 1. Hybrid Task Cascade for Instance Segmentation, *Kai Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.07518.pdf)
