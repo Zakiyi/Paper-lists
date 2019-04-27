@@ -41,9 +41,7 @@
 1. Res2Net: A New Multi-scale Backbone Architecture, *Shang-Hua Gao et al, Arxiv*. [pdf](https://arxiv.org/pdf/1904.01169.pdf)
 1. Exploring Randomly Wired Neural Networks for Image Recognition, *Saining Xie et al, Arxiv*. [pdf](https://arxiv.org/pdf/1904.01569.pdf)
 
-## Visualization
-
-## Interpretation
+## Interpretation & Understanding
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Inspiring articles & reports**
 1. Deep learning and shallow data, [Piekniewski's blog](https://blog.piekniewski.info/2019/04/07/deep-learning-and-shallow-data/)
