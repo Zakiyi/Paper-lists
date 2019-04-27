@@ -2,7 +2,7 @@
 Papers list of deep learning and machine lerning in computer vision
 ## Contents
 **CNN Models Exploration**
-* [CNN Architectures / Interpretation / Understanding](https://github.com/Zakiyi/Paper-lists/blob/master/convolutional%20neural%20networks.md)
+* [CNN Architectures / Interpretation & Understanding](https://github.com/Zakiyi/Paper-lists/blob/master/convolutional%20neural%20networks.md)
 * [Initialization / Objective Function / Optimization / Generalization](https://github.com/Zakiyi/Paper-lists/blob/master/optimization%20&%20generalization.md)
 * Model Acceleration / Compression
 
