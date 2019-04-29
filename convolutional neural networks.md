@@ -21,6 +21,7 @@
 1. Deep Networks with Stochastic Depth, *Gao Huang et al, ECCV*. [pdf](https://arxiv.org/pdf/1603.09382v3.pdf) 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2017**
+1. Xception: Deep Learning with Depthwise Separable Convolutions, *Franc¸ois Chollet et al, CVPR*. [pdf](https://arxiv.org/pdf/1610.02357.pdf)
 1. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, *Christian Szegedy et al, AAAI*. [pdf](https://arxiv.org/pdf/1602.07261.pdf)  [Review article of the Inception series](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)  
 1. Aggregated Residual Transformations for Deep Neural Networks, *Saining Xie et al, CVPR*. [pdf](https://arxiv.org/pdf/1611.05431.pdf)
 1. Densely Connected Convolutional Networks, *Gao Huang et al, CVPR*. [pdf](https://arxiv.org/pdf/1608.06993.pdf)
