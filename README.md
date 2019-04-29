@@ -1,5 +1,5 @@
 # Reading-lists
-Papers list of deep learning and machine lerning in computer vision
+Papers list of deep learning and machine lerning in computer vision, it will continue to be updated...
 ## Contents
 **CNN Models Exploration**
 * [CNN Architectures / Interpretation & Understanding](https://github.com/Zakiyi/Paper-lists/blob/master/convolutional%20neural%20networks.md)
