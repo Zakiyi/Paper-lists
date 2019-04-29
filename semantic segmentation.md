@@ -73,6 +73,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**2019**
 1. Hybrid Task Cascade for Instance Segmentation, *Kai Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.07518.pdf)
 1. Efficient Smoothing of Dilated Convolutions for Image Segmentation, *Thomas Ziegler et al, Arxiv*. [pdf](https://arxiv.org/pdf/1903.07992.pdf)
+1. Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation, *Zhi Tian et al, CVPR.* [pdf](https://arxiv.org/pdf/1903.02120v3.pdf)
 
 ### Weakly Supervised Segmentation
 &nbsp;&nbsp;&nbsp;&nbsp;**2018**
