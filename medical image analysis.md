@@ -11,7 +11,8 @@
 1. LadderNET: Multi-path networks based on U-Net for medical image segmentation (***2018***), *Juntang Zhuang, Arxiv.* [pdf](https://arxiv.org/pdf/1810.07810.pdf)
 1. Recurrent Residual Convolutional NeuralNetwork based on U-Net (R2U-Net) for Medical Image Segmentation (***2018***), *Md Zahangir Alom et al, Arxiv.* [pdf](https://arxiv.org/pdf/1802.06955.pdf)
 1. Autofocus Layer for Semantic Segmentation (***2018***), *Yao Qin et al, MICCAI.* [pdf](https://arxiv.org/pdf/1805.08403v3.pdf)
-
+1. BESNet: Boundary-Enhanced Segmentation of Cells in Histopathological Images (***2018***), *Hirohisa Oda et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00934-2_26.pdf)
+1. Bottleneck Supervised U-Net for Pixel-wise Liver and Tumor Segmentation (***2019***), *Song Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1810.10331.pdf)
 
 ### Generative Adversarial Networks
 1. Medical Image Synthesis with Context-Aware Generative Adversarial Networks (***2016, image synthesis***&#x1F31E;), *Dong Nie et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66179-7_48.pdf)
