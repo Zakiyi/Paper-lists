@@ -13,14 +13,16 @@
 1. Highway Networks, *R. K. Srivastava et al ICML* 2015. [pdf](https://arxiv.org/pdf/1505.00387.pdf)
 1. Very Deep Convolutional Networks For Large-Scale Image Recognition, *Karen Simonyan et al, ICLR* 2015. [pdf](https://arxiv.org/pdf/1409.1556.pdf)
 1. Going Deeper with Convolutions (**Inception v1**), *Christian Szegedy et al, CVPR* 2015. [pdf](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
+1. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (**Inception v2/BN inception**), *Sergey Ioffe et al,  ICML* 2015. [pdf](http://proceedings.mlr.press/v37/ioffe15.pdf) 
+1. Rethinking the Inception Architecture for Computer Vision (**Inception v3**), *Christian Szegedy et al, CVPR* 2016. [pdf](https://arxiv.org/pdf/1512.00567.pdf)
 1. Deep Residual Learning for Image Recognition, *Kaiming He et al, CVPR* 2016. [pdf](https://arxiv.org/pdf/1512.03385.pdf)
 1. Wide Residual Networks, *Sergey Zagoruyko et al, BMVC*. [pdf](https://arxiv.org/pdf/1603.09382v3.pdf)
-1. Rethinking the Inception Architecture for Computer Vision (**Inception v2 & v3**), *Christian Szegedy et al, CVPR* 2016. [pdf](https://arxiv.org/pdf/1512.00567.pdf)
 1. Deep pyramidal residual networks, *Dongyoon Han et al, CoRR* 2016. [pdf](https://arxiv.org/pdf/1610.02915.pdf), [related blog](http://torch.ch/blog/2016/02/04/resnets.html)
 1. Identity Mappings in Deep Residual Networks, *Kaiming He et al, ECCV* 2016. [pdf](https://arxiv.org/pdf/1603.05027v3.pdf)
 1. Deep Networks with Stochastic Depth, *Gao Huang et al, ECCV*. [pdf](https://arxiv.org/pdf/1603.09382v3.pdf) 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2017**
+1. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (**Inception v4**), *Christian Szegedy et al, AAAI* 2017. [pdf](https://arxiv.org/pdf/1602.07261.pdf)
 1. Xception: Deep Learning with Depthwise Separable Convolutions, *Franc¸ois Chollet et al, CVPR*. [pdf](https://arxiv.org/pdf/1610.02357.pdf)
 1. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, *Christian Szegedy et al, AAAI*. [pdf](https://arxiv.org/pdf/1602.07261.pdf)  [Review article of the Inception series](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)  
 1. Aggregated Residual Transformations for Deep Neural Networks, *Saining Xie et al, CVPR*. [pdf](https://arxiv.org/pdf/1611.05431.pdf)
