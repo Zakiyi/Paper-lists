@@ -17,7 +17,7 @@
 1. BESNet: Boundary-Enhanced Segmentation of Cells in Histopathological Images, *Hirohisa Oda et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00934-2_26.pdf)
 1. Attention U-Net: Learning Where to Look for the Pancreas, *Ozan Oktay et al, MIDL.* [pdf](https://arxiv.org/pdf/1804.03999v3.pdf)
 1. UNet++: A Nested U-Net Architecture for Medical Image Segmentation, *Zongwei Zhou et al, MICCAI.* [pdf](https://arxiv.org/pdf/1807.10165.pdf)  
-&nbsp;&nbsp;**2019**
+**2019**
 1. Bottleneck Supervised U-Net for Pixel-wise Liver and Tumor Segmentation (***2019***), *Song Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1810.10331.pdf)
 
 ### Generative Adversarial Networks
