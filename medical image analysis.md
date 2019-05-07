@@ -12,6 +12,7 @@
 1. Recurrent Residual Convolutional NeuralNetwork based on U-Net (R2U-Net) for Medical Image Segmentation (***2018***), *Md Zahangir Alom et al, Arxiv.* [pdf](https://arxiv.org/pdf/1802.06955.pdf)
 1. Autofocus Layer for Semantic Segmentation (***2018***), *Yao Qin et al, MICCAI.* [pdf](https://arxiv.org/pdf/1805.08403v3.pdf)
 1. BESNet: Boundary-Enhanced Segmentation of Cells in Histopathological Images (***2018***), *Hirohisa Oda et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00934-2_26.pdf)
+1. Attention U-Net: Learning Where to Look for the Pancreas (***2018***), *Ozan Oktay et al, MIDL.* [pdf](https://arxiv.org/pdf/1804.03999v3.pdf)
 1. Bottleneck Supervised U-Net for Pixel-wise Liver and Tumor Segmentation (***2019***), *Song Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1810.10331.pdf)
 
 ### Generative Adversarial Networks
