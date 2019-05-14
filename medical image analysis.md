@@ -13,7 +13,7 @@
 4. Suggestive Annotation: A Deep Active Learning Framework for Biomedical Image Segmentation (***2017***), *Jianxu Chen et al, MICCAI.* [pdf](https://arxiv.org/pdf/1706.04737.pdf)
 
 **2018**
-1. LadderNET: Multi-path networks based on U-Net for medical image segmentation, *Juntang Zhuang, Arxiv.* [pdf](https://arxiv.org/pdf/1810.07810.pdf)
+1. LadderNET: Multi-path networks based on U-Net for medical image segmentation, *Juntang Zhuang, Arxiv.* [pdf](https://juntangzhuang.com/files/laddernet.pdf) & [code]()
 1. Recurrent Residual Convolutional NeuralNetwork based on U-Net (R2U-Net) for Medical Image Segmentation, *Md Zahangir Alom et al, Arxiv.* [pdf](https://arxiv.org/pdf/1802.06955.pdf)
 1. Autofocus Layer for Semantic Segmentation, *Yao Qin et al, MICCAI.* [pdf](https://arxiv.org/pdf/1805.08403v3.pdf)
 1. BESNet: Boundary-Enhanced Segmentation of Cells in Histopathological Images, *Hirohisa Oda et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00934-2_26.pdf)
