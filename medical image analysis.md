@@ -21,6 +21,7 @@
 1. UNet++: A Nested U-Net Architecture for Medical Image Segmentation, *Zongwei Zhou et al, MICCAI.* [pdf](https://arxiv.org/pdf/1807.10165.pdf)
 1. MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation, *Jiawei Zhang et al, Arxiv.* [pdf]()
 1. Recalibrating Fully Convolutional Networks with Spatial and Channel ‘Squeeze & Excitation’ Blocks, *Abhijit Guha Roy et al, IEEE TMI.* [pdf](https://arxiv.org/pdf/1808.08127.pdf)
+
 **2019**
 1. Bottleneck Supervised U-Net for Pixel-wise Liver and Tumor Segmentation (***2019***), *Song Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1810.10331.pdf)
 
