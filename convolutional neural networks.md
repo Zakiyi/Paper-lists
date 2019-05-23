@@ -31,6 +31,7 @@
 1. Dynamic Routing Between Capsules, *Sara Sabour et al, NIPS*. [pdf](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)
 1. Dilated Residual Networks, *Fisher Yu et al, CVPR*. [pdf](https://arxiv.org/pdf/1705.09914.pdf) &#x1F33E;&#x1F33E;
 1. Dual Path Networks， *Yunpeng Chen et al, NIPS* . [pdf](https://papers.nips.cc/paper/7033-dual-path-networks.pdf)
+
 &nbsp;&nbsp;&nbsp;&nbsp;**2018**
 1. Deformable ConvNets v2: More Deformable, Better Results, *Xizhou Zhu et al, Arxiv*. [pdf](https://arxiv.org/pdf/1811.11168.pdf)
 1. Squeeze-and-Excitation Networks, *Jie Hu et al, CVPR*. [journal pdf](https://arxiv.org/pdf/1709.01507.pdf) [conf pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf) &#x1F33E;&#x1F33E;&#x1F340;
