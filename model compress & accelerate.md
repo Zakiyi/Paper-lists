@@ -6,3 +6,6 @@
 
 ### 2017
 1. ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices, *Xiangyu Zhang et al, CVPR.* [pdf](https://arxiv.org/pdf/1707.01083.pdf)
+
+### 2018
+1. ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design, *Ningning Ma et al, ECCV.* [pdf](https://arxiv.org/pdf/1807.11164.pdf)
