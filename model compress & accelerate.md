@@ -9,3 +9,4 @@
 
 ### 2018
 1. ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design, *Ningning Ma et al, ECCV.* [pdf](https://arxiv.org/pdf/1807.11164.pdf)
+1. MobileNetV2: Inverted Residuals and Linear Bottlenecks, *Mark Sandler et al, CVPR.* [pdf](https://arxiv.org/pdf/1801.04381.pdf)
