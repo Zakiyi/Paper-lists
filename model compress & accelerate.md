@@ -12,3 +12,4 @@
 1. ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design, *Ningning Ma et al, ECCV.* [pdf](https://arxiv.org/pdf/1807.11164.pdf)
 1. MobileNetV2: Inverted Residuals and Linear Bottlenecks, *Mark Sandler et al, CVPR.* [pdf](https://arxiv.org/pdf/1801.04381.pdf)
 1. MnasNet: Platform-Aware Neural Architecture Search for Mobile, *Mingxing Tan et al, Arxiv.* [pdf](https://arxiv.org/pdf/1807.11626.pdf)
+1. Interleaved Structured Sparse Convolutional Neural Networks, *Guotian Xie et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xie_Interleaved_Structured_Sparse_CVPR_2018_paper.pdf)
