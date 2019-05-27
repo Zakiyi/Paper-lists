@@ -19,8 +19,9 @@
 1. BESNet: Boundary-Enhanced Segmentation of Cells in Histopathological Images, *Hirohisa Oda et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00934-2_26.pdf)
 1. Attention U-Net: Learning Where to Look for the Pancreas, *Ozan Oktay et al, MIDL.* [pdf](https://arxiv.org/pdf/1804.03999v3.pdf)
 1. UNet++: A Nested U-Net Architecture for Medical Image Segmentation, *Zongwei Zhou et al, MICCAI.* [pdf](https://arxiv.org/pdf/1807.10165.pdf)
-1. MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation, *Jiawei Zhang et al, Arxiv.* [pdf]()
+1. MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation, *Jiawei Zhang et al, Arxiv.* [pdf](https://arxiv.org/pdf/1812.00352.pdf)
 1. Recalibrating Fully Convolutional Networks with Spatial and Channel ‘Squeeze & Excitation’ Blocks, *Abhijit Guha Roy et al, IEEE TMI.* [journal pdf](https://arxiv.org/pdf/1808.08127.pdf) & [conference pdf](https://arxiv.org/pdf/1803.02579.pdf) & [code](https://github.com/ai-med/squeeze_and_excitation) 
+1. Y-Net: Joint Segmentation and Classification for Diagnosis of Breast Biopsy Images, *Sachin Mehta, MICCAI.* [pdf](https://arxiv.org/pdf/1806.01313.pdf)
 
 **2019**
 1. Bottleneck Supervised U-Net for Pixel-wise Liver and Tumor Segmentation (***2019***), *Song Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1810.10331.pdf)
