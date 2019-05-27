@@ -24,7 +24,8 @@
 1. Y-Net: Joint Segmentation and Classification for Diagnosis of Breast Biopsy Images, *Sachin Mehta, MICCAI.* [pdf](https://arxiv.org/pdf/1806.01313.pdf)
 
 **2019**
-1. Bottleneck Supervised U-Net for Pixel-wise Liver and Tumor Segmentation (***2019***), *Song Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1810.10331.pdf)
+1. Bottleneck Supervised U-Net for Pixel-wise Liver and Tumor Segmentation, *Song Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1810.10331.pdf)
+1. MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation, *Nabil Ibtehaz et al, Arxiv.* [pdf](https://arxiv.org/pdf/1902.04049.pdf)
 
 ### Generative Adversarial Networks
 1. Medical Image Synthesis with Context-Aware Generative Adversarial Networks (***2016, image synthesis***&#x1F31E;), *Dong Nie et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66179-7_48.pdf)
