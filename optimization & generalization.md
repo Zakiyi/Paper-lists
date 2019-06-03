@@ -1,10 +1,12 @@
 ## Initialization / Objective Function / Optimization / Generalization
 ### Optimization
 ***2017***  
-1. On Large Batch Training For Deep Learning Generalization Gap and Sharp Minima, *Keskar et al, ICLR* [pdf](https://arxiv.org/pdf/1609.04836.pdf)
+1. On Large Batch Training For Deep Learning Generalization Gap and Sharp Minima, *Keskar et al, ICLR.* [pdf](https://arxiv.org/pdf/1609.04836.pdf)
 1. Snapshot Ensembles: Train 1, Get M for Free, *Gao Huang et al ICLR.* [pdf](https://arxiv.org/pdf/1704.00109.pdf)  
 
 ***2018***
+1. How Does Batch Normalization Help Optimization? *Shibani Santurkar et al, NIPS.* [pdf](https://arxiv.org/pdf/1805.11604.pdf)
+1. Visualizing the Loss Landscape of Neural Nets, *Hao Li et al, NIPS.* [pdf](https://arxiv.org/pdf/1712.09913.pdf)
 1. The Lovasz-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks, *Maxim Berman et al, CVPR.* [pdf](https://arxiv.org/pdf/1705.08790.pdf), [code](https://github.com/bermanmaxim/LovaszSoftmax)
 
 ***2019***
