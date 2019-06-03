@@ -2,8 +2,9 @@
 ### Optimization
 ***2017***
 
-1. On Large Batch Training For Deep Learning Generalization Gap and Sharp Minima, *Nitish Shirish Keskar et al, ICLR* [pdf](https://arxiv.org/pdf/1609.04836.pdf)
+1. On Large Batch Training For Deep Learning Generalization Gap and Sharp Minima, *Keskar et al, ICLR* [pdf](https://arxiv.org/pdf/1609.04836.pdf)
 1. Snapshot Ensembles: Train 1, Get M for Free, *Gao Huang et al ICLR.* [pdf](https://arxiv.org/pdf/1704.00109.pdf)
+
 ***2019***
 1. Decoupled Weight Decay Regularization, *Ilya Loshchilov et al, ICLR.* [pdf](https://arxiv.org/pdf/1711.05101.pdf)
 ### Generalization
