@@ -2,6 +2,7 @@
 ### Optimization
 ***2016***  
 1. Deep Learning without Poor Local Minima, *Kenji Kawaguchi et al, NIPS.* [pdf](https://arxiv.org/pdf/1605.07110.pdf)
+
 ***2017***  
 1. On Large Batch Training For Deep Learning Generalization Gap and Sharp Minima, *Keskar et al, ICLR.* [pdf](https://arxiv.org/pdf/1609.04836.pdf)
 1. Snapshot Ensembles: Train 1, Get M for Free, *Gao Huang et al ICLR.* [pdf](https://arxiv.org/pdf/1704.00109.pdf)  
