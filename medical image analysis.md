@@ -33,7 +33,9 @@
 ### Generative Adversarial Networks
 1. Medical Image Synthesis with Context-Aware Generative Adversarial Networks (***2016, image synthesis***&#x1F31E;), *Dong Nie et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66179-7_48.pdf)
 2. Adversarial Training and Dilated Convolutions for Brain MRI Segmentation (***2017***), *Pim Moeskops et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-67558-9_7.pdf)
-1. GANs for Medical Image Analysis (***2018***), *Salome Kazeminia et al, Arxiv.* [pdf](https://arxiv.org/pdf/1809.06222.pdf)
+
+***2018***
+1. GANs for Medical Image Analysis, *Salome Kazeminia et al, Arxiv.* [pdf](https://arxiv.org/pdf/1809.06222.pdf)
 1. Adversarial Learning for Semi-Supervised Semantic Segmentation, *Wei-Chih Hung et al, BMVC.* [pdf](https://arxiv.org/pdf/1802.07934.pdf)
 
 ### Miscellaneous
