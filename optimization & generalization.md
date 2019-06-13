@@ -15,6 +15,8 @@
 ***2019***
 1. Decoupled Weight Decay Regularization, *Ilya Loshchilov et al, ICLR.* [pdf](https://arxiv.org/pdf/1711.05101.pdf)
 1. Rethinking the Usage of Batch Normalization and Dropout in the Training of Deep Neural Networks, *Guangyong Chen et al, Arxiv.* [pdf](https://arxiv.org/pdf/1905.05928.pdf)
+1. Understanding the Disharmony between Dropout and Batch Normalization by Variance Shif, *Xiang Li et al, CVPR.* [pdf](https://arxiv.org/pdf/1801.05134.pdf)
+
 ### Generalization
 1. Why do deep convolutional networks generalize so poorly to small image transformations? *Aharon Azulay et al, Arxiv* **2018.** [pdf](https://arxiv.org/pdf/1805.12177.pdf)
 
