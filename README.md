@@ -9,7 +9,7 @@ Papers list of deep learning and machine lerning in computer vision, it will con
 **Applications**
 * [Image Classification](https://github.com/Zakiyi/Paper-lists/blob/master/image%20classification.md)
 * [Semantic Segmentation](https://github.com/Zakiyi/Paper-lists/blob/master/semantic%20segmentation.md)
-* [Object Detection & Visual Tracking](https://github.com/Zakiyi/Paper-lists/edit/master/Object%20Detection.md)
+* [Object Detection & Visual Tracking](https://github.com/Zakiyi/Paper-lists/blob/master/Object%20Detection.md)
 * Image Synthensis / Style transfer / Image Denosing & Enhencement
 * [Medical Image Analysis](https://github.com/Zakiyi/Paper-lists/blob/master/medical%20image%20analysis.md)
 
