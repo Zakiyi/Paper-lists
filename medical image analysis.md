@@ -14,6 +14,7 @@
 1. W-Net: A Deep Model for Fully Unsupervised Image Segmentation, *Xide Xia et al, Arxiv.* (***Unsupervised***) [pdf](https://arxiv.org/pdf/1711.08506.pdf)
 
 **2018**
+1. Semantic Segmentation of Pathological Lung Tissue with Dilated Fully Convolutional Networks, *Marios Anthimopoulos et al, Arxiv.* [pdf](https://arxiv.org/pdf/1803.06167.pdf)
 1. LadderNET: Multi-path networks based on U-Net for medical image segmentation, *Juntang Zhuang, Arxiv.* [pdf](https://juntangzhuang.com/files/laddernet.pdf) & [code]()
 1. Recurrent Residual Convolutional NeuralNetwork based on U-Net (R2U-Net) for Medical Image Segmentation, *Md Zahangir Alom et al, Arxiv.* [pdf](https://arxiv.org/pdf/1802.06955.pdf)
 1. Autofocus Layer for Semantic Segmentation, *Yao Qin et al, MICCAI.* [pdf](https://arxiv.org/pdf/1805.08403v3.pdf)
