@@ -6,6 +6,7 @@
 1. Efficient Multi-Scale 3D CNN with fully connected CRF for Accurate Brain Lesion Segmentation (***2016***), *K Kamnitsas et al, Medical Image Analysis.* [pdf](https://arxiv.org/pdf/1603.05959.pdf)
 
 **2017**
+1. Iterative Deep Convolutional Encoder-Decoder Network for Medical Image Segmentation, *Jung Uk Kim et al, Arxiv.* [pdf](https://arxiv.org/pdf/1708.03431v1.pdf)
 1. Anatomically Constrained Neural Networks (ACNNs): Application to Cardiac Image Enhancement and Segmentation, *Ozan Oktay et al, IEEE TMI.* [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8051114)
 1. Joint Sequence Learning and Cross-Modality Convolution for 3D Biomedical Segmentation, *Kuan-Lun Tseng et al, CVPR.* [pdf](https://arxiv.org/pdf/1704.07754.pdf)
 1. 3D Anisotropic Hybrid Network: Transferring Convolutional Features from 2D Images to 3D Anisotropic Volumes, *Siqi Liu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1711.08580.pdf)
@@ -15,6 +16,8 @@
 
 **2018**
 1. Semantic Segmentation of Pathological Lung Tissue with Dilated Fully Convolutional Networks, *Marios Anthimopoulos et al, Arxiv.* [pdf](https://arxiv.org/pdf/1803.06167.pdf)
+1. An application of cascaded 3D fully convolutional networks for medical image segmentation, *Holger R. Roth et al, Arxiv.* [pdf](https://arxiv.org/pdf/1803.05431v2.pdf)
+1. A 3D Coarse-to-Fine Framework for Volumetric Medical Image Segmentation, *Zhuotun Zhu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1712.00201v2.pdf)
 1. LadderNET: Multi-path networks based on U-Net for medical image segmentation, *Juntang Zhuang, Arxiv.* [pdf](https://juntangzhuang.com/files/laddernet.pdf) & [code]()
 1. Recurrent Residual Convolutional NeuralNetwork based on U-Net (R2U-Net) for Medical Image Segmentation, *Md Zahangir Alom et al, Arxiv.* [pdf](https://arxiv.org/pdf/1802.06955.pdf)
 1. Autofocus Layer for Semantic Segmentation, *Yao Qin et al, MICCAI.* [pdf](https://arxiv.org/pdf/1805.08403v3.pdf)
@@ -34,6 +37,8 @@
 1. Deeply Self-Supervised Contour Embedded Neural Network Applied to Liver Segmentation, *Minyoung Chung et al, Arxiv.* [pdf](https://arxiv.org/pdf/1808.00739v3.pdf)
 1. Psi-Net: Shape and boundary aware joint multi-task deep network for medical image segmentation, *Balamurali Murugesan et al, Arxiv.* [pdf](https://arxiv.org/pdf/1902.04099v2.pdf)
 1. Anatomical Priors for Image Segmentation via Post-Processing with Denoising Autoencoders, *Agostina J. Larrazabal et al, Arxiv.* [pdf](https://arxiv.org/pdf/1906.02343v1.pdf)
+1. Transformation Consistent Self-ensembling Model for Semi-supervised Medical Image Segmentation, *Xiaomeng Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1903.00348v2.pdf)
+1. Thickened 2D Networks for 3D Medical Image Segmentation, *Qihang Yu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1904.01150v1.pdf)
 
 
 ### Generative Adversarial Networks
