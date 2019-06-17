@@ -29,6 +29,7 @@
 1. MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation, *Nabil Ibtehaz et al, Arxiv.* [pdf](https://arxiv.org/pdf/1902.04049.pdf)
 1. Dilated deeply supervised networks for hippocampus segmentation in MRI, *Lukas Folle et al, Arxiv.* [pdf](https://arxiv.org/pdf/1903.09097v1.pdf)
 1. Triplanar Convolutional Neural Network for Automatic Liver and Tumor Image Segmentation, *Zhenggang Wang et al, Arxiv.* [pdf](http://www.ijpe-online.com/attachments/article/1642/IJPE-2018-12-24.pdf)
+1. Deeply Self-Supervised Contour Embedded Neural Network Applied to Liver Segmentation, *Minyoung Chung et al, Arxiv.* [pdf](https://arxiv.org/pdf/1808.00739v3.pdf)
 
 
 ### Generative Adversarial Networks
