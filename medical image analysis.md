@@ -32,6 +32,7 @@
 1. Dilated deeply supervised networks for hippocampus segmentation in MRI, *Lukas Folle et al, Arxiv.* [pdf](https://arxiv.org/pdf/1903.09097v1.pdf)
 1. Triplanar Convolutional Neural Network for Automatic Liver and Tumor Image Segmentation, *Zhenggang Wang et al, Arxiv.* [pdf](http://www.ijpe-online.com/attachments/article/1642/IJPE-2018-12-24.pdf)
 1. Deeply Self-Supervised Contour Embedded Neural Network Applied to Liver Segmentation, *Minyoung Chung et al, Arxiv.* [pdf](https://arxiv.org/pdf/1808.00739v3.pdf)
+1. Psi-Net: Shape and boundary aware joint multi-task deep network for medical image segmentation, *Balamurali Murugesan et al, Arxiv.* [pdf](https://arxiv.org/pdf/1902.04099v2.pdf)
 1. Anatomical Priors for Image Segmentation via Post-Processing with Denoising Autoencoders, *Agostina J. Larrazabal et al, Arxiv.* [pdf](https://arxiv.org/pdf/1906.02343v1.pdf)
 
 
