@@ -24,6 +24,7 @@
 1. MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation, *Jiawei Zhang et al, Arxiv.* [pdf](https://arxiv.org/pdf/1812.00352.pdf)
 1. Recalibrating Fully Convolutional Networks with Spatial and Channel ‘Squeeze & Excitation’ Blocks, *Abhijit Guha Roy et al, IEEE TMI.* [journal pdf](https://arxiv.org/pdf/1808.08127.pdf) & [conference pdf](https://arxiv.org/pdf/1803.02579.pdf) & [code](https://github.com/ai-med/squeeze_and_excitation) 
 1. Y-Net: Joint Segmentation and Classification for Diagnosis of Breast Biopsy Images, *Sachin Mehta, MICCAI.* [pdf](https://arxiv.org/pdf/1806.01313.pdf)
+1. Boundary loss for highly unbalanced segmentation, *Hoel Kervadec et al, Arxiv*. [pdf](https://arxiv.org/pdf/1812.07032.pdf)
 
 **2019**
 1. Bottleneck Supervised U-Net for Pixel-wise Liver and Tumor Segmentation, *Song Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1810.10331.pdf)
