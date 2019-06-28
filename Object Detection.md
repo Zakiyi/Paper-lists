@@ -14,4 +14,4 @@
 3. DetNet: A Backbone network for Object Detection, *Zeming Li et al, ECCV*. [pdf](https://arxiv.org/pdf/1804.06215.pdf)
 
 **2019**
-1. Scale-Aware Trident Networks for Object Detection, *Yanghao Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1901.01892.pdf)
+1. Scale-Aware Trident Networks for Object Detection, *Yanghao Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1901.01892.pdf), [code](https://github.com/TuSimple/simpledet/tree/master/models/tridentnet)
