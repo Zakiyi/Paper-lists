@@ -46,6 +46,7 @@
 4. The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation, *Simon Jegou et al, CVPR.* [pdf](https://arxiv.org/pdf/1611.09326.pdf) &#x1F35A;&#x1F35A;
 5. LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation, *Abhishek Chaurasia et al, Arxiv.* [pdf](https://arxiv.org/pdf/1707.03718.pdf)
 1. Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade, *Xiaoxiao Li et al, CVPR.* [pdf](https://arxiv.org/pdf/1704.01344.pdf) &#x1F340;&#x1F340;&#x1F340;
+![img](https://github.com/Zakiyi/Paper-lists/blob/master/figures/2017_Not_All.png)
 1. Scale-adaptive Convolutions for Scene Parsing, *Rui Zhang et al, ICCV*. [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Scale-Adaptive_Convolutions_for_ICCV_2017_paper.pdf)
 1. Dilated Residual Networks, *Fisher Yu et al, CVPR*. [pdf](https://arxiv.org/pdf/1705.09914.pdf)
 
@@ -59,6 +60,7 @@
 5. BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation, *Changqian Yu et al, ECCV.* [pdf](https://arxiv.org/pdf/1808.00897.pdf)
 6. Context Contrasted Feature and Gated Multi-scale Aggregation for Scene Segmentation, *Henghui Ding et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Context_Contrasted_Feature_CVPR_2018_paper.pdf) &#x1F340;&#x1F340;&#x1F349;
 7. CCNet: Criss-Cross Attention for Semantic Segmentation, *Zilong Huang et al, Arxiv.* [pdf](https://arxiv.org/pdf/1811.11721.pdf)
+![img](https://github.com/Zakiyi/Paper-lists/blob/master/figures/2018_CC_Attentation.png)
 8. DenseASPP for Semantic Segmentation in Street Scenes, *Maoke Yang et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf) &#x1F33E;&#x1F33E;
 ![img](https://github.com/Zakiyi/Paper-lists/blob/master/figures/2018_Dense_ASPP.png)
 1. MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving, *Marvin Teichmann, IV.* [pdf](https://arxiv.org/pdf/1612.07695v2.pdf)
