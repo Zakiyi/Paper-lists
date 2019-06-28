@@ -51,7 +51,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2018**
 1. Deep Layer Aggregation, *Fisher Yu et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Deep_Layer_Aggregation_CVPR_2018_paper.pdf)
-1. Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation, *Liang-Chieh Chen et al, ECCV.* [pdf](https://arxiv.org/pdf/1802.02611.pdf)
+1. Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation, *L.C. Chen et al, ECCV.* [pdf](https://arxiv.org/pdf/1802.02611.pdf)
 ![img](https://github.com/Zakiyi/Paper-lists/blob/master/figures/2018_DeepLab_V3%2B.png)
 2. Searching for Efficient Multi-Scale Architectures for Dense Image Prediction, *Liang-Chieh Chen et al, NIPS.* [pdf](https://arxiv.org/pdf/1809.04184.pdf)
 3. Pyramid Attention Network for Semantic Segmentation, *Hanchao Li et al, BMVC.* [pdf](https://arxiv.org/pdf/1805.10180.pdf)
