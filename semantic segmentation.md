@@ -74,7 +74,7 @@
 1. Smoothed Dilated Convolutions for Improved Dense Prediction, *Zhengyang Wang et al, KDD*. [pdf](https://arxiv.org/pdf/1808.08931.pdf)
 1. CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes, *Yuhong Li et al, CVPR*. [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_CSRNet_Dilated_Convolutional_CVPR_2018_paper.pdf)
 1. Concurrent Spatial and Channel Squeeze & Excitation in Fully Convolutional Networks, *Abhijit Guha Roy et al, Arxiv*. [pdf](https://arxiv.org/pdf/1803.02579.pdf)
-![img](https://github.com/Zakiyi/UNet-family/blob/master/pictures/SCSE.png)
+ &nbsp;&nbsp;![img](https://github.com/Zakiyi/UNet-family/blob/master/pictures/SCSE.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2019**
 1. Hybrid Task Cascade for Instance Segmentation, *Kai Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.07518.pdf)
