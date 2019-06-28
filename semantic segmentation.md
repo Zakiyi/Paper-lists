@@ -65,6 +65,7 @@
 11. Multi-Scale Context Intertwining for Semantic Segmentation, *Di Lin et al, ECCV.* [pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf)
 12. Path Aggregation Network for Instance Segmentation, *Shu Liu et al, CVPR.* [pdf](https://arxiv.org/pdf/1803.01534.pdf)
 13. Understanding Convolution for Semantic Segmentation, *Panqu Wang et al, WACV.* [pdf](https://arxiv.org/pdf/1702.08502.pdf)
+![img](https://github.com/Zakiyi/Paper-lists/blob/master/figures/2018_HDC_DUC.png)
 14. The Devil is in the Decoder: Classification, Regression and GANs, *Zbigniew Wojna et al, BMVC* [pdf](https://arxiv.org/pdf/1707.05847.pdf)
 1. ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation, *Sachin Mehta et al, ECCV.* [pdf](https://arxiv.org/pdf/1803.06815.pdf) &#x1F680;&#x1F680;&#x23F0;
 1. CU-Net: Coupled U-Nets, *Zhiqiang Tang et al, BMVC*. [pdf](https://arxiv.org/pdf/1808.06521.pdf)
@@ -73,7 +74,7 @@
 1. Smoothed Dilated Convolutions for Improved Dense Prediction, *Zhengyang Wang et al, KDD*. [pdf](https://arxiv.org/pdf/1808.08931.pdf)
 1. CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes, *Yuhong Li et al, CVPR*. [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_CSRNet_Dilated_Convolutional_CVPR_2018_paper.pdf)
 1. Concurrent Spatial and Channel ‘Squeeze & Excitation’ in Fully Convolutional Networks, *Abhijit Guha Roy et al, Arxiv.* [pdf](https://arxiv.org/pdf/1803.02579.pdf)
-
+![img](https://github.com/Zakiyi/UNet-family/blob/master/pictures/SCSE.png)
 &nbsp;&nbsp;&nbsp;&nbsp;**2019**
 1. Hybrid Task Cascade for Instance Segmentation, *Kai Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.07518.pdf)
 1. Efficient Smoothing of Dilated Convolutions for Image Segmentation, *Thomas Ziegler et al, Arxiv*. [pdf](https://arxiv.org/pdf/1903.07992.pdf)
