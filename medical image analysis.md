@@ -14,6 +14,7 @@
 4. Suggestive Annotation: A Deep Active Learning Framework for Biomedical Image Segmentation, *Jianxu Chen et al, MICCAI.* [pdf](https://arxiv.org/pdf/1706.04737.pdf)
 1. W-Net: A Deep Model for Fully Unsupervised Image Segmentation, *Xide Xia et al, Arxiv.* (***Unsupervised***) [pdf](https://arxiv.org/pdf/1711.08506.pdf)
 1. Learning and Incorporating Shape Models for Semantic Segmentation, *H. Ravishankar et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66182-7_24.pdf)
+![img](https://github.com/Zakiyi/Paper-lists/blob/master/figures/2017_SR_Unet.png)
 
 **2018**
 1. Semantic Segmentation of Pathological Lung Tissue with Dilated Fully Convolutional Networks, *Marios Anthimopoulos et al, Arxiv.* [pdf](https://arxiv.org/pdf/1803.06167.pdf)
