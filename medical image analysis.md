@@ -42,6 +42,7 @@
 1. Transformation Consistent Self-ensembling Model for Semi-supervised Medical Image Segmentation, *Xiaomeng Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1903.00348v2.pdf)
 1. Thickened 2D Networks for 3D Medical Image Segmentation, *Qihang Yu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1904.01150v1.pdf)
 1. Multi-scale Guided Attention for Medical Image Segmentation, *Ashish Sinha et al, Arxiv.* [pdf](https://arxiv.org/pdf/1906.02849v1.pdf)
+1. Attention to Refine through Multi-Scales for Semantic Segmentation, *Shiqi Yang et al, Arxiv.* [pdf](https://arxiv.org/pdf/1807.02917v1.pdf)
 
 
 ### Generative Adversarial Networks
