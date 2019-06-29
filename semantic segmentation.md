@@ -91,6 +91,7 @@
 1. Multi-scale Autoencoders in Autoencoder for Semantic Image Segmentation, *John Paul T. Yusiong et al, ACIIDS*. [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-14799-0_51.pdf)
 1. FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation, *Huikai Wu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1903.11816.pdf)
 1. CaseNet: Content-Adaptive Scale Interaction Networks for Scene Parsing, *Xin Jin et al, Arxiv.* [pdf](https://arxiv.org/pdf/1904.08170.pdf)
+1. Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation, *Xinge Zhu et al, Arxiv*. [pdf](https://arxiv.org/pdf/1809.00903v2.pdf)
 
 ### Weakly Supervised Segmentation
 &nbsp;&nbsp;&nbsp;&nbsp;**2018**
