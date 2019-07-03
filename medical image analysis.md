@@ -16,6 +16,7 @@
 1. Learning and Incorporating Shape Models for Semantic Segmentation, *H. Ravishankar et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66182-7_24.pdf)
 ![img](https://github.com/Zakiyi/Paper-lists/blob/master/figures/2017_SR_Unet.png)
 1. Joint Deep Learning of Foreground, Background and Shape for Robust Contextual Segmentation, *Hariharan Ravishankar et al, IPMI*. [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-59050-9_49.pdf)
+1. SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation, *Yuan Xue et al, Arxiv.* [pdf](https://arxiv.org/pdf/1706.01805v2.pdf)
 
 **2018**
 1. Semantic Segmentation of Pathological Lung Tissue with Dilated Fully Convolutional Networks, *Marios Anthimopoulos et al, Arxiv.* [pdf](https://arxiv.org/pdf/1803.06167.pdf)
@@ -46,6 +47,7 @@
 1. Multi-scale Guided Attention for Medical Image Segmentation, *Ashish Sinha et al, Arxiv.* [pdf](https://arxiv.org/pdf/1906.02849v1.pdf)
 1. Attention to Refine through Multi-Scales for Semantic Segmentation, *Shiqi Yang et al, Arxiv.* [pdf](https://arxiv.org/pdf/1807.02917v1.pdf)
 1. MILD-Net: Minimal Information Loss Dilated Network for Gland Instance Segmentation in Colon Histology Images, *Simon Graham et al.* [pdf](https://arxiv.org/pdf/1806.01963v4.pdf)
+1. Automatic Segmentation of Vestibular Schwannoma from T2-Weighted MRI by Deep Spatial Attention with Hardness-Weighted Loss, *Guotai Wang, et al, Arxiv*. [pdf](https://arxiv.org/pdf/1906.03906v1.pdf)
 
 ### Generative Adversarial Networks
 1. Medical Image Synthesis with Context-Aware Generative Adversarial Networks (***2016, image synthesis***&#x1F31E;), *Dong Nie et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66179-7_48.pdf)
