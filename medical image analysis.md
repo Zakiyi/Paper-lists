@@ -46,8 +46,6 @@
 1. Multi-scale Guided Attention for Medical Image Segmentation, *Ashish Sinha et al, Arxiv.* [pdf](https://arxiv.org/pdf/1906.02849v1.pdf)
 1. Attention to Refine through Multi-Scales for Semantic Segmentation, *Shiqi Yang et al, Arxiv.* [pdf](https://arxiv.org/pdf/1807.02917v1.pdf)
 1. MILD-Net: Minimal Information Loss Dilated Network for Gland Instance Segmentation in Colon Histology Images, *Simon Graham et al.* [pdf](https://arxiv.org/pdf/1806.01963v4.pdf)
-1. Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation, *Xinge Zhu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1809.00903v2.pdf)
-
 
 ### Generative Adversarial Networks
 1. Medical Image Synthesis with Context-Aware Generative Adversarial Networks (***2016, image synthesis***&#x1F31E;), *Dong Nie et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66179-7_48.pdf)
