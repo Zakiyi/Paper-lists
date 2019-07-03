@@ -48,6 +48,7 @@
 1. Attention to Refine through Multi-Scales for Semantic Segmentation, *Shiqi Yang et al, Arxiv.* [pdf](https://arxiv.org/pdf/1807.02917v1.pdf)
 1. MILD-Net: Minimal Information Loss Dilated Network for Gland Instance Segmentation in Colon Histology Images, *Simon Graham et al.* [pdf](https://arxiv.org/pdf/1806.01963v4.pdf)
 1. Automatic Segmentation of Vestibular Schwannoma from T2-Weighted MRI by Deep Spatial Attention with Hardness-Weighted Loss, *Guotai Wang, et al, Arxiv*. [pdf](https://arxiv.org/pdf/1906.03906v1.pdf)
+1. Boundary Loss for Remote Sensing Imagery Semantic Segmentation, *Alexey Bokhovkin et al, Arxiv.* [pdf](https://arxiv.org/pdf/1905.07852v1.pdf)
 
 ### Generative Adversarial Networks
 1. Medical Image Synthesis with Context-Aware Generative Adversarial Networks (***2016, image synthesis***&#x1F31E;), *Dong Nie et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66179-7_48.pdf)
