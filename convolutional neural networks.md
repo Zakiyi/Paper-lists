@@ -58,3 +58,4 @@
 1. Similarity of Neural Network Representations Revisited, *Simon Kornblith et al, Arxiv* ***2019***. [pdf](https://arxiv.org/pdf/1905.00414.pdf)
 1. Understanding the Effective Receptive Field in Deep Convolutional Neural Networks, *Wenjie Luo et al, Arxiv* ***2017***.[pdf](https://arxiv.org/pdf/1701.04128.pdf)
 1. What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? *Alex Kendall et al, NIPS*. [pdf](https://arxiv.org/pdf/1703.04977.pdf)
+1. ImageNet-Trained CNNs are Biased Towards Texture; Increasing Shape Bias Improves Accuracy and Robustness, *Robert Geirhos et al, ICLR.* [pdf](https://arxiv.org/pdf/1811.12231.pdf)
