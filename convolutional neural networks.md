@@ -34,6 +34,7 @@
 1. Dual Path Networks， *Yunpeng Chen et al, NIPS* . [pdf](https://papers.nips.cc/paper/7033-dual-path-networks.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2018**
+1. CBAM: Convolutional Block Attention Module, *Sanghyun Woo et al, ECCV*. [pdf](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)
 1. Deformable ConvNets v2: More Deformable, Better Results, *Xizhou Zhu et al, Arxiv*. [pdf](https://arxiv.org/pdf/1811.11168.pdf)
 1. Squeeze-and-Excitation Networks, *Jie Hu et al, CVPR*. [journal pdf](https://arxiv.org/pdf/1709.01507.pdf) [conf pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf) &#x1F33E;&#x1F33E;&#x1F340;
 1. CondenseNet: An Efficient DenseNet using Learned Group Convolutions, *Gao Huang et al, CVPR*. [pdf](https://arxiv.org/pdf/1711.09224.pdf)
