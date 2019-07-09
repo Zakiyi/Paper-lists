@@ -4,6 +4,8 @@
 **2016**
 1. HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection, *Tao Kong et al, CVPR.* [pdf](https://arxiv.org/pdf/1604.00600.pdf) ![img](https://github.com/Zakiyi/Paper-lists/blob/master/figures/2016_Hypernet.png)
 1. A MultiPath Network for Object Detection, *Sergey Zagoruyko et al, Arxiv.* [pdf](https://arxiv.org/pdf/1604.02135.pdf)
+1. PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection, *Kye-Hyeon Kim et al, Arxiv.* [pdf](https://arxiv.org/pdf/1608.08021.pdf)
+1. Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units, *Wenling Shang et al, ICML.* [pdf](https://arxiv.org/pdf/1603.05201.pdf)
 
 **2017**
 1. Beyond Skip Connections: Top-Down Modulation for Object Detection, *Abhinav Shrivastava et al, Arxiv.* [pdf](https://arxiv.org/pdf/1612.06851.pdf)
