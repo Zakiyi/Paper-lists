@@ -40,6 +40,7 @@
 1. Learning Transferable Architectures for Scalable Image Recognition (**NASNet**), *Barret Zoph et al, CVPR*. [pdf](https://arxiv.org/pdf/1707.07012.pdf)
 1. Beyod Finite Layer Neural Networks Bridging Deep Architecture and Numerical Differential Equations, *Yiping Lu et al, ICML*. [pdf](https://arxiv.org/pdf/1710.10121v2.pdf)
 1. ResNet Sparsifier: Learning Strict Identity Mappings in Deep Residual Networks, *Xin Yu et al, CVPR*. [pdf](https://arxiv.org/pdf/1804.01661v4.pdf)
+1. Competitive Inner-Imaging Squeeze and Excitation for Residual Network, *Yang Hu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1807.08920.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2019**
 1. Selective Kernel Networks, *Xiang Li et al, CVPR*. [pdf](https://arxiv.org/pdf/1903.06586.pdf)
