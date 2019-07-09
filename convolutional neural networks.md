@@ -21,6 +21,7 @@
 1. Deep pyramidal residual networks, *Dongyoon Han et al, CoRR* 2016. [pdf](https://arxiv.org/pdf/1610.02915.pdf), [related blog](http://torch.ch/blog/2016/02/04/resnets.html) &#x1F33E;&#x1F33E;
 1. Identity Mappings in Deep Residual Networks, *Kaiming He et al, ECCV* 2016. [pdf](https://arxiv.org/pdf/1603.05027v3.pdf)
 1. Deep Networks with Stochastic Depth, *Gao Huang et al, ECCV*. [pdf](https://arxiv.org/pdf/1603.09382v3.pdf) 
+1. Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units, *Wenling Shang et al, ICML.* [pdf](https://arxiv.org/pdf/1603.05201.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2017**
 1. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (**Inception v4**), *Christian Szegedy et al, AAAI* 2017. [pdf](https://arxiv.org/pdf/1602.07261.pdf)
