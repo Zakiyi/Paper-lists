@@ -34,6 +34,7 @@
 1. Boundary loss for highly unbalanced segmentation, *Hoel Kervadec et al, Arxiv*. [pdf](https://arxiv.org/pdf/1812.07032.pdf)
 1. Combo Loss: Handling Input and Output Imbalance in Multi-Organ Segmentation, *S. A. Taghanaki et al, Arxiv.* [pdf](https://arxiv.org/pdf/1805.02798v5.pdf)
 1. Densely Dilated Spatial Pooling Convolutional Network using benign loss functions for imbalanced volumetric prostate segmentation, *Qiuhua Liu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1801.10517v2.pdf)
+1. Dense Multi-path U-Net for Ischemic Stroke Lesion Segmentation in Multiple Image Modalities, *Jose Dolz et al, Arxiv.* [pdf](https://arxiv.org/pdf/1810.07003.pdf)
 
 **2019**
 1. Bottleneck Supervised U-Net for Pixel-wise Liver and Tumor Segmentation, *Song Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1810.10331.pdf)
