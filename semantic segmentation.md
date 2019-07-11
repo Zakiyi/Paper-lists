@@ -81,6 +81,7 @@
 1. Concurrent Spatial and Channel Squeeze & Excitation in Fully Convolutional Networks, *Abhijit G.R. et al, Arxiv*. [pdf](https://arxiv.org/pdf/1803.02579.pdf)
  &nbsp;&nbsp;![img](https://github.com/Zakiyi/UNet-family/blob/master/pictures/SCSE.png)
 1. A Pyramid CNN for Dense-Leaves Segmentation, *Daniel D. Morris et al, Arxiv.* [pdf](https://arxiv.org/pdf/1804.01646v1.pdf)
+1. ExFuse: Enhancing Feature Fusion for Semantic Segmentation, *Zhenli Zhang et al, ECCV.* [pdf](https://arxiv.org/pdf/1804.03821.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2019**
 1. Hybrid Task Cascade for Instance Segmentation, *Kai Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.07518.pdf)
