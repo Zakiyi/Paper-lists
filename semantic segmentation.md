@@ -27,6 +27,7 @@
 11. DeepContour: A Deep Convolutional Feature Learned by Positive-sharing Loss for Contour Detection, *Wei Shen et al, CVPR.* [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Shen_DeepContour_A_Deep_2015_CVPR_paper.pdf)
 12. DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, *Gedas Bertasius et al, CVPR.* [pdf](https://arxiv.org/pdf/1412.1123.pdf)
 13. Holistically-Nested Edge Detection, *Saining Xie et al, ICCV.* [pdf](https://arxiv.org/pdf/1504.06375.pdf)
+1. Learning High-level Prior with Convolutional Neural Networks for Semantic Segmentation, *Haitian Zheng et al, Arxiv.* [pdf](https://arxiv.org/pdf/1511.06988v1.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2016**
 1. Multi-Scale Context Aggregation by Dilated Convolutions, *Fisher Yu et al, ICLR.* [pdf](http://vladlen.info/papers/dilated-convolutions.pdf)
