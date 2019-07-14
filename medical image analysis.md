@@ -52,6 +52,8 @@
 1. MILD-Net: Minimal Information Loss Dilated Network for Gland Instance Segmentation in Colon Histology Images, *Simon Graham et al.* [pdf](https://arxiv.org/pdf/1806.01963v4.pdf)
 1. Automatic Segmentation of Vestibular Schwannoma from T2-Weighted MRI by Deep Spatial Attention with Hardness-Weighted Loss, *Guotai Wang, et al, Arxiv*. [pdf](https://arxiv.org/pdf/1906.03906v1.pdf)
 1. Boundary Loss for Remote Sensing Imagery Semantic Segmentation, *Alexey Bokhovkin et al, Arxiv.* [pdf](https://arxiv.org/pdf/1905.07852v1.pdf)
+1. Scalable Neural Architecture Search for 3D Medical Image Segmentation, *Sungwoong Kim et al, Arxiv.* [pdf](https://arxiv.org/pdf/1906.05956v1.pdf)
+1. OctopusNet: A Deep Learning Segmentation Network for Multi-modal Medical Images, *Yu Chen et al, Arxiv.* [pdf](https://arxiv.org/pdf/1906.02031v1.pdf)
 
 ### Weakly Supervised Segmentation
 1. PseudoEdgeNet: Nuclei Segmentation only with Point Annotations, *Inwan Yoo et al, Arxiv*. [pdf](https://arxiv.org/pdf/1906.02924v1.pdf)
