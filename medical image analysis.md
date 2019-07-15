@@ -1,5 +1,9 @@
 # Medical Image Analysis
 
+### Review & Survey
+**~2016**
+1. Incorporating prior knowledge in medical image segmentation: a survey, *Masoud S. Nosrati et al, Arxiv.* [pdf](https://arxiv.org/pdf/1607.01092v1.pdf)
+
 ### Image Segmentation
 **~2016**
 1. Combining Fully Convolutional and Recurrent Neural Networks for 3D Biomedical Image Segmentation (***2016*** &#x1F44D;), *Jianxu Chen et al, NIPS.* [pdf](https://arxiv.org/pdf/1609.01006.pdf)
