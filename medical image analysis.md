@@ -21,6 +21,7 @@
 ![img](https://github.com/Zakiyi/Paper-lists/blob/master/figures/2017_SR_Unet.png)
 1. Joint Deep Learning of Foreground, Background and Shape for Robust Contextual Segmentation, *Hariharan Ravishankar et al, IPMI*. [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-59050-9_49.pdf)
 1. SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation, *Yuan Xue et al, Arxiv.* [pdf](https://arxiv.org/pdf/1706.01805v2.pdf)
+1. GridNet with automatic shape prior registration for automatic MRI cardiac segmentation, *Cl´ement Zotti et al, Arxiv*. [pdf](https://arxiv.org/pdf/1705.08943v2.pdf)
 
 **2018**
 1. Semantic Segmentation of Pathological Lung Tissue with Dilated Fully Convolutional Networks, *Marios Anthimopoulos et al, Arxiv.* [pdf](https://arxiv.org/pdf/1803.06167.pdf)
@@ -58,6 +59,8 @@
 1. Boundary Loss for Remote Sensing Imagery Semantic Segmentation, *Alexey Bokhovkin et al, Arxiv.* [pdf](https://arxiv.org/pdf/1905.07852v1.pdf)
 1. Scalable Neural Architecture Search for 3D Medical Image Segmentation, *Sungwoong Kim et al, Arxiv.* [pdf](https://arxiv.org/pdf/1906.05956v1.pdf)
 1. OctopusNet: A Deep Learning Segmentation Network for Multi-modal Medical Images, *Yu Chen et al, Arxiv.* [pdf](https://arxiv.org/pdf/1906.02031v1.pdf)
+1. Improving 3D U-Net for Brain Tumor Segmentation by Utilizing Lesion Prior, *Po-Yu Kao et al, Arxiv*. [pdf](https://arxiv.org/pdf/1907.00281v1.pdf)
+1. SOFT LABELING BY DISTILLING ANATOMICAL KNOWLEDGE FOR IMPROVED MS LESION SEGMENTATION, *Eytan Kats et al, Arxiv*. [pdf](https://arxiv.org/pdf/1901.09263v1.pdf)
 
 ### Weakly Supervised Segmentation
 1. PseudoEdgeNet: Nuclei Segmentation only with Point Annotations, *Inwan Yoo et al, Arxiv*. [pdf](https://arxiv.org/pdf/1906.02924v1.pdf)
