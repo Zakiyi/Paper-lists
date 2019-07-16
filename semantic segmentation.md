@@ -84,7 +84,6 @@
 1. A Pyramid CNN for Dense-Leaves Segmentation, *Daniel D. Morris et al, Arxiv.* [pdf](https://arxiv.org/pdf/1804.01646v1.pdf)
 1. ExFuse: Enhancing Feature Fusion for Semantic Segmentation, *Zhenli Zhang et al, ECCV.* [pdf](https://arxiv.org/pdf/1804.03821.pdf)
 1. Guided Upsampling Network for Real-Time Semantic Segmentation, *Davide Mazzini et al, Arxiv.* [pdf](https://arxiv.org/pdf/1807.07466v1.pdf)
-1. ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation, *Sachin Mehta et al.* [pdf](https://arxiv.org/pdf/1803.06815.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2019**
 1. Hybrid Task Cascade for Instance Segmentation, *Kai Chen et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.07518.pdf)
