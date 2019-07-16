@@ -62,9 +62,11 @@
 1. Improving 3D U-Net for Brain Tumor Segmentation by Utilizing Lesion Prior, *Po-Yu Kao et al, Arxiv*. [pdf](https://arxiv.org/pdf/1907.00281v1.pdf)
 1. SOFT LABELING BY DISTILLING ANATOMICAL KNOWLEDGE FOR IMPROVED MS LESION SEGMENTATION, *Eytan Kats et al, Arxiv*. [pdf](https://arxiv.org/pdf/1901.09263v1.pdf)
 1. CASCADE DECODER: A UNIVERSAL DECODING METHOD FOR BIOMEDICAL IMAGE SEGMENTATION, *Peixian Liang et al, Arxiv.* [pdf](https://arxiv.org/pdf/1901.04949v1.pdf)
+1. Multi-Scale Attentional Network for Multi-Focal Segmentation of Active Bleed after Pelvic Fractures, *Yuyin Zhou et al, Arxiv.* [pdf](https://arxiv.org/pdf/1906.09540v1.pdf)
 
 ### Weakly Supervised Segmentation
 1. PseudoEdgeNet: Nuclei Segmentation only with Point Annotations, *Inwan Yoo et al, Arxiv*. [pdf](https://arxiv.org/pdf/1906.02924v1.pdf)
+1. A multi-task U-net for segmentation with lazy labels, *Rihuan Ke et al, Arxiv.* [pdf](https://arxiv.org/pdf/1906.12177v1.pdf)
 ### Generative Adversarial Networks
 1. Medical Image Synthesis with Context-Aware Generative Adversarial Networks (***2016, image synthesis***&#x1F31E;), *Dong Nie et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66179-7_48.pdf)
 2. Adversarial Training and Dilated Convolutions for Brain MRI Segmentation (***2017***), *Pim Moeskops et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-67558-9_7.pdf)
