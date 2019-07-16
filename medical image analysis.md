@@ -61,6 +61,7 @@
 1. OctopusNet: A Deep Learning Segmentation Network for Multi-modal Medical Images, *Yu Chen et al, Arxiv.* [pdf](https://arxiv.org/pdf/1906.02031v1.pdf)
 1. Improving 3D U-Net for Brain Tumor Segmentation by Utilizing Lesion Prior, *Po-Yu Kao et al, Arxiv*. [pdf](https://arxiv.org/pdf/1907.00281v1.pdf)
 1. SOFT LABELING BY DISTILLING ANATOMICAL KNOWLEDGE FOR IMPROVED MS LESION SEGMENTATION, *Eytan Kats et al, Arxiv*. [pdf](https://arxiv.org/pdf/1901.09263v1.pdf)
+1. CASCADE DECODER: A UNIVERSAL DECODING METHOD FOR BIOMEDICAL IMAGE SEGMENTATION, *Peixian Liang et al, Arxiv.* [pdf](https://arxiv.org/pdf/1901.04949v1.pdf)
 
 ### Weakly Supervised Segmentation
 1. PseudoEdgeNet: Nuclei Segmentation only with Point Annotations, *Inwan Yoo et al, Arxiv*. [pdf](https://arxiv.org/pdf/1906.02924v1.pdf)
