@@ -16,3 +16,5 @@
 
 **2019**
 1. Scale-Aware Trident Networks for Object Detection, *Yanghao Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1901.01892.pdf), [code](https://github.com/TuSimple/simpledet/tree/master/models/tridentnet)
+2. Hybrid Task Cascade for Instance Segmentation, *Kai Chen et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Hybrid_Task_Cascade_for_Instance_Segmentation_CVPR_2019_paper.pdf)
+1. ThunderNet: Towards Real-time Generic Object Detection, *Zheng Qin et al, Arxiv.* [pdf](https://arxiv.org/pdf/1903.11752.pdf)
