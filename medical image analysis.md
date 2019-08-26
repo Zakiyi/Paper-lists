@@ -82,5 +82,5 @@
 1. Transfusion: Understanding Transfer Learning for Medical Imaging， *Maithra Raghu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1902.07208.pdf)
 
 ### Clinical Application
-1. A clinically applicable approach to continuous prediction of future acute kidney injury, *Nenad Tomašev et al, Nature Letter.* [pdf](https://www.nature.com/articles/s41586-019-1390-1.pdf) 急性肾损伤（Acute Kidney Injury）
+1. A clinically applicable approach to continuous prediction of future acute kidney injury, *Nenad Tomašev et al, Nature Letter.* [pdf](https://www.nature.com/articles/s41586-019-1390-1.pdf) （**Acute Kidney Injury**）
 
