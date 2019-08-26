@@ -53,6 +53,7 @@
 1. Deep Layer Aggregation, *Fisher Yu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1707.06484.pdf)
 1. Convolutional Neural Networks Combined with Runge-Kutta Methods, *Mai Zhu et al, ICLR.* [pdf](https://arxiv.org/pdf/1802.08831.pdf)
 1. Making Convolutional Networks Shift-Invariant Again, *Richard Zhang, Arxiv.* [pdf](https://arxiv.org/pdf/1904.11486.pdf)
+1. Spatial Group-wise Enhance: Improving Semantic Feature Learning in Convolutional Networks, *Xiang Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1905.09646.pdf)
 
 ## Interpretation & Understanding
 
