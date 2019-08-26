@@ -52,6 +52,7 @@
 1. Exploring Randomly Wired Neural Networks for Image Recognition, *Saining Xie et al, Arxiv*. [pdf](https://arxiv.org/pdf/1904.01569.pdf)
 1. Deep Layer Aggregation, *Fisher Yu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1707.06484.pdf)
 1. Convolutional Neural Networks Combined with Runge-Kutta Methods, *Mai Zhu et al, ICLR.* [pdf](https://arxiv.org/pdf/1802.08831.pdf)
+1. Making Convolutional Networks Shift-Invariant Again, *Richard Zhang, Arxiv.* [pdf](https://arxiv.org/pdf/1904.11486.pdf)
 
 ## Interpretation & Understanding
 
