@@ -80,3 +80,7 @@
 ### Miscellaneous
 1. Fine-tuning Convolutional Neural Networks for Biomedical Image Analysis: Actively and Incrementally (***2017***), *Zongwei Zhou et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Fine-Tuning_Convolutional_Neural_CVPR_2017_paper.pdf)
 1. Transfusion: Understanding Transfer Learning for Medical Imaging， *Maithra Raghu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1902.07208.pdf)
+
+### Clinical Application
+1. A clinically applicable approach to continuous prediction of future acute kidney injury, *Nenad Tomašev et al, Nature Letter.* [pdf](https://www.nature.com/articles/s41586-019-1390-1.pdf) 急性肾损伤（Acute Kidney Injury）
+
