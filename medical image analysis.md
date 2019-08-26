@@ -83,4 +83,5 @@
 
 ### Clinical Application
 1. A clinically applicable approach to continuous prediction of future acute kidney injury, *Nenad Tomašev et al, Nature Letter.* [pdf](https://www.nature.com/articles/s41586-019-1390-1.pdf) （**Acute Kidney Injury**）
+1. Evaluation and accurate diagnoses of pediatric diseases using artificial intelligence，*Huiying Liang et al, Nature Medicine.* [pdf](https://www.nature.com/articles/s41591-018-0335-9.pdf)
 
