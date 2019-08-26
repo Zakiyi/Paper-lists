@@ -100,6 +100,7 @@
 1. PyramNet: Point Cloud Pyramid Attention Network and Graph Embedding Module for Classification and Segmentation, *Kang Zhiheng et al, Arxiv*. [pdf](https://arxiv.org/pdf/1906.03299v1.pdf)
 1. Self-Supervised Model Adaptation for Multimodal Semantic Segmentation, *Abhinav Valada et al, Arxiv.* [pdf](https://arxiv.org/pdf/1808.03833v3.pdf)
 1. Knowledge Adaptation for Efficient Semantic Segmentation, *Tong He et al, Arxiv*. [pdf](https://arxiv.org/pdf/1903.04688.pdf)
+1. Gated-SCNN: Gated Shape CNNs for Semantic Segmentation， *Towaki Takikawa et al, Arxiv.* [pdf](https://arxiv.org/pdf/1907.05740.pdf)
 
 ### Weakly Supervised Segmentation
 &nbsp;&nbsp;&nbsp;&nbsp;**2018**
