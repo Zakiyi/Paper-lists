@@ -45,6 +45,7 @@
 1. Competitive Inner-Imaging Squeeze and Excitation for Residual Network, *Yang Hu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1807.08920.pdf)
 1. Convolutional Neural Networks with Alternately Updated Clique, *Yibo Yang et al, CVPR.* [pdf](https://arxiv.org/pdf/1802.10419.pdf)
 1. BAM: Bottleneck Attention Module, *Jongchan Park et al, Arxiv.* [pdf](https://arxiv.org/pdf/1807.06514.pdf)
+1. Dynamic Sampling Convolutional Neural Networks, *Jialin Wu et al, ECCV.* [pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jialin_Wu_Dynamic_Sampling_Convolutional_ECCV_2018_paper.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2019**
 1. Selective Kernel Networks, *Xiang Li et al, CVPR*. [pdf](https://arxiv.org/pdf/1903.06586.pdf)
