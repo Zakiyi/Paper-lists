@@ -67,6 +67,7 @@
 1. Multi-Scale Attentional Network for Multi-Focal Segmentation of Active Bleed after Pelvic Fractures, *Yuyin Zhou et al, Arxiv.* [pdf](https://arxiv.org/pdf/1906.09540v1.pdf)
 1. FEATURE FUSION ENCODER DECODER NETWORK FOR AUTOMATIC LIVER LESION SEGMENTATION, *Xueying Chen et al.* [pdf](https://arxiv.org/pdf/1903.11834v1.pdf)
 1. Multi-scale Autoencoders in Autoencoder for Semantic Image Segmentation, *John Paul T. Yusiong et al, ACIIDS.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-14799-0_51.pdf)
+1. Cardiac Segmentation from LGE MRI Using Deep Neural Network Incorporating Shape and Spatial Priors, *Qian Yue et al, Arxiv.* [pdf](https://arxiv.org/ftp/arxiv/papers/1906/1906.07347.pdf)
 
 ### Weakly Supervised Segmentation
 1. PseudoEdgeNet: Nuclei Segmentation only with Point Annotations, *Inwan Yoo et al, Arxiv*. [pdf](https://arxiv.org/pdf/1906.02924v1.pdf)
