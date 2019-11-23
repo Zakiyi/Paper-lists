@@ -91,6 +91,7 @@
 
 ***2019***
 1. Uncertainty-Guided Domain Alignment for Layer Segmentation in OCT Images, *Jiexiang Wang et al, Arxiv.* [pdf](https://arxiv.org/pdf/1908.08242.pdf)
+![img](https://github.com/Zakiyi/Paper-lists/blob/master/figures/2019%20UGDA.png)
 
 ### Miscellaneous
 1. Fine-tuning Convolutional Neural Networks for Biomedical Image Analysis: Actively and Incrementally (***2017***), *Zongwei Zhou et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Fine-Tuning_Convolutional_Neural_CVPR_2017_paper.pdf)
