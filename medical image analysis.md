@@ -83,9 +83,11 @@
 ### Domain adaption for segmentation
 ***2016***
 1. Unsupervised domain adaptation in brain lesion segmentation with adversarial networks, *Kamnitsas et al, IPMI.* [pdf](https://arxiv.org/pdf/1612.08894.pdf)
+
 ***2018***
 1. Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss, *Dou et al, AAAI.* [pdf](https://arxiv.org/pdf/1804.10916.pdf)
 1. Adversarial Domain Adaptation for Classification of Prostate Histopathology Whole-Slide Images, *Jian Ren et al, MICCAI.* [pdf](https://arxiv.org/pdf/1806.01357.pdf)
+
 ***2019***
 1. Uncertainty-Guided Domain Alignment for Layer Segmentation in OCT Images, *Jiexiang Wang et al, Arxiv.* [pdf](https://arxiv.org/pdf/1908.08242.pdf)
 
