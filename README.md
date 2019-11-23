@@ -18,3 +18,4 @@ Papers list of deep learning and machine lerning in computer vision, it will con
 
 ### Medical Image Analysis
 * [Medical Image Segmentation](https://github.com/Zakiyi/Paper-lists/blob/master/medical%20image%20segmentation.md)
+* [Miscellaneous](https://github.com/Zakiyi/Paper-lists/blob/master/miscellaneous%20medical%20image%20analysis)
