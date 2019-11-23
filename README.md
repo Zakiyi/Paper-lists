@@ -8,7 +8,7 @@ Papers list of deep learning and machine lerning in computer vision, it will con
 * [Optimization / Generalization](https://github.com/Zakiyi/Paper-lists/blob/master/optimization%20&%20generalization.md)
 * [Model Acceleration / Compression](https://github.com/Zakiyi/Paper-lists/blob/master/model%20compress%20&%20accelerate.md)
 
-**Applications**
+&nbsp;&nbsp;&nbsp;&nbsp;**Applications**
 * [Image Classification](https://github.com/Zakiyi/Paper-lists/blob/master/image%20classification.md)
 * [Semantic Segmentation](https://github.com/Zakiyi/Paper-lists/blob/master/semantic%20segmentation.md)
 * [Object Detection & Visual Tracking](https://github.com/Zakiyi/Paper-lists/blob/master/Object%20Detection.md)
