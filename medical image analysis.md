@@ -73,6 +73,7 @@
 1. PseudoEdgeNet: Nuclei Segmentation only with Point Annotations, *Inwan Yoo et al, Arxiv*. [pdf](https://arxiv.org/pdf/1906.02924v1.pdf)
 1. A multi-task U-net for segmentation with lazy labels, *Rihuan Ke et al, Arxiv.* [pdf](https://arxiv.org/pdf/1906.12177v1.pdf)
 ### Generative Adversarial Networks
+***~2018***
 1. Medical Image Synthesis with Context-Aware Generative Adversarial Networks (***2016, image synthesis***&#x1F31E;), *Dong Nie et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66179-7_48.pdf)
 2. Adversarial Training and Dilated Convolutions for Brain MRI Segmentation (***2017***), *Pim Moeskops et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-67558-9_7.pdf)
 
