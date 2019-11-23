@@ -80,6 +80,15 @@
 1. GANs for Medical Image Analysis, *Salome Kazeminia et al, Arxiv.* [pdf](https://arxiv.org/pdf/1809.06222.pdf)
 1. Adversarial Learning for Semi-Supervised Semantic Segmentation, *Wei-Chih Hung et al, BMVC.* [pdf](https://arxiv.org/pdf/1802.07934.pdf)
 
+### Domain adaption for segmentation
+***2016***
+1. Unsupervised domain adaptation in brain lesion segmentation with adversarial networks, *Kamnitsas et al, IPMI.* [pdf](https://arxiv.org/pdf/1612.08894.pdf)
+***2018***
+1. Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss, *Dou et al, AAAI.* [pdf](https://arxiv.org/pdf/1804.10916.pdf)
+1. Adversarial Domain Adaptation for Classification of Prostate Histopathology Whole-Slide Images, *Jian Ren et al, MICCAI.* [pdf](https://arxiv.org/pdf/1806.01357.pdf)
+***2019***
+1. Uncertainty-Guided Domain Alignment for Layer Segmentation in OCT Images, *Jiexiang Wang et al, Arxiv.* [pdf](https://arxiv.org/pdf/1908.08242.pdf)
+
 ### Miscellaneous
 1. Fine-tuning Convolutional Neural Networks for Biomedical Image Analysis: Actively and Incrementally (***2017***), *Zongwei Zhou et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Fine-Tuning_Convolutional_Neural_CVPR_2017_paper.pdf)
 1. Transfusion: Understanding Transfer Learning for Medical Imaging， *Maithra Raghu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1902.07208.pdf)
