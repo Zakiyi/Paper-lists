@@ -1,7 +1,9 @@
 # Reading-lists
 Papers list of deep learning and machine lerning in computer vision, it will continue to be updated...
 ## Contents
-**CNN Models Exploration**
+### General deep learning
+
+**Models and Optimization**
 * [CNN Architectures / Interpretation](https://github.com/Zakiyi/Paper-lists/blob/master/convolutional%20neural%20networks.md)
 * [Optimization / Generalization](https://github.com/Zakiyi/Paper-lists/blob/master/optimization%20&%20generalization.md)
 * [Model Acceleration / Compression](https://github.com/Zakiyi/Paper-lists/blob/master/model%20compress%20&%20accelerate.md)
@@ -14,3 +16,5 @@ Papers list of deep learning and machine lerning in computer vision, it will con
 * [Miscellaneous](https://github.com/Zakiyi/Paper-lists/blob/master/miscellaneous.md)
 * [Medical Image Analysis](https://github.com/Zakiyi/Paper-lists/blob/master/medical%20image%20analysis.md)
 
+### Medical Image Analysis
+* [Medical Image Segmentation]
