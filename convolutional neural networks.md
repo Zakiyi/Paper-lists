@@ -4,6 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**Review papers & technical reports**
 1. Recent Advances in Convolutional Neural Networks, *Jiuxiang Gu et al, Pattern Recognition* *2017*. [pdf](https://reader.elsevier.com/reader/sd/pii/S0031320317304120?token=106FDF6803F64264A80962850E808CE382F6ACA19A91E8F2A72B3407A083A6C86149FD1B652AB48367BA2EEAB64D3564)
 1. A practical theory for designing very deep convolutional neural networks, *Xudong Cao et al, Arxiv* *2015*. [pdf](https://pdfs.semanticscholar.org/7922/2fad9f671be142bd7e42cd785a2cb06a1d30.pdf?_ga=2.116614400.788554961.1558921438-980990197.1558921438)
+1. Benchmark Analysis of Representative Deep Neural Network Architectures, *SIMONE BIANCO et al, IEEE Access* *2018*. [pdf](https://arxiv.org/pdf/1810.00736.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2012-2016**
 1. ImageNet Classification with Deep Convolutional Neural Networks, *Alex Krizhevsky et al, NIPS* 2012. [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
