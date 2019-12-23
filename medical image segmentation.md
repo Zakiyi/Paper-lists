@@ -4,6 +4,7 @@
 1. Incorporating prior knowledge in medical image segmentation: a survey (**2016**), *Masoud S. Nosrati et al, Arxiv.* [pdf](https://arxiv.org/pdf/1607.01092v1.pdf)
 2. Understanding Deep Learning Techniques for Image Segmentation (**2019**), *Swarnendu Ghosh et al, Arxiv.* [pdf](https://arxiv.org/pdf/1907.06119.pdf)
 3. Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Image Segmentation (**2019**), *Nima Tajbakhsh et al, Arxiv.* [pdf](https://arxiv.org/pdf/1908.10454.pdf)
+4. Deep Semantic Segmentation of Natural and Medical Images: A Review (**2019**), *Taghanaki et al, Arxiv.* [pdf](https://arxiv.org/pdf/1910.07655.pdf)
 
 ### fully Supervised Segmentation
 **~2016**
