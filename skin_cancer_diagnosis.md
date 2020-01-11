@@ -1,2 +1,5 @@
-## Artificial Intelligence-Based Image Analysis for
-Diagnosis of Skin Cancer
+## Artificial Intelligence-Based Image Analysis for Skin Cancer Diagnosis
+
+### Clinical papers
+
+### Algorithms & Applications
