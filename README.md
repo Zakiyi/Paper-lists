@@ -1,5 +1,5 @@
 # Reading-lists
-Papers list of deep learning and machine lerning in computer vision, it will continue to be updated...
+Papers list of deep learning and machine lerning in deep learning, computer vision, and medical image analysis, it will continue to be updated...
 ## Contents
 ### General deep learning
 
