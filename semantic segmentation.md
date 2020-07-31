@@ -111,6 +111,7 @@
 1. Knowledge Adaptation for Efficient Semantic Segmentation, *Tong He et al, Arxiv*. [pdf](https://arxiv.org/pdf/1903.04688.pdf)
 1. Gated-SCNN: Gated Shape CNNs for Semantic Segmentation， *Towaki Takikawa et al, Arxiv.* [pdf](https://arxiv.org/pdf/1907.05740.pdf)
 1. Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation, *Chenxi Liu et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.02985.pdf)
+<img src="https://github.com/Zakiyi/Paper-lists/blob/master/figures/2019_auto_deeplab.png" alt="drawing" width="600"/>
 
 ### Weakly Supervised Segmentation
 &nbsp;&nbsp;&nbsp;&nbsp;**2018**
