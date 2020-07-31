@@ -64,5 +64,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**2020**
 1. Designing Network Design Spaces (**RegNet**), *Ilija Radosavovic et al, Arxiv.* [pdf](https://arxiv.org/pdf/2003.13678.pdf)
 1. Neural Architecture Design for GPU-Efficient Networks, *Ming Lin et al, Arxiv.* [pdf](https://arxiv.org/pdf/2006.14090.pdf)
-
-
