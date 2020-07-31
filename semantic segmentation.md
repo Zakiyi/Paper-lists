@@ -65,14 +65,15 @@
 <img src="https://github.com/Zakiyi/Paper-lists/blob/master/figures/ccnet.png" alt="drawing" width="600"/>
 
 8. DenseASPP for Semantic Segmentation in Street Scenes, *Maoke Yang et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf) &#x1F33E;&#x1F33E;
-![img](https://github.com/Zakiyi/Paper-lists/blob/master/figures/2018_Dense_ASPP.png)
+<img src="https://github.com/Zakiyi/Paper-lists/blob/master/figures/2018_Dense_ASPP.png" alt="drawing" width="600"/>
+
 1. MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving, *Marvin Teichmann, IV.* [pdf](https://arxiv.org/pdf/1612.07695v2.pdf)
 9. Context Encoding for Semantic Segmentation, *Hang Zhang et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Context_Encoding_for_CVPR_2018_paper.pdf)
 10. PSANet: Point-wise Spatial Attention Network for Scene Parsing, *Hengshuang Zhao et al, ECCV.* [pdf](https://hszhao.github.io/papers/eccv18_psanet.pdf)
 11. Multi-Scale Context Intertwining for Semantic Segmentation, *Di Lin et al, ECCV.* [pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf)
 12. Path Aggregation Network for Instance Segmentation, *Shu Liu et al, CVPR.* [pdf](https://arxiv.org/pdf/1803.01534.pdf)
 13. Understanding Convolution for Semantic Segmentation, *Panqu Wang et al, WACV.* [pdf](https://arxiv.org/pdf/1702.08502.pdf)
-![img](https://github.com/Zakiyi/Paper-lists/blob/master/figures/2018_HDC_DUC.png)
+<img src="https://github.com/Zakiyi/Paper-lists/blob/master/figures/2018_HDC_DUC.png" alt="drawing" width="600"/>
 
 14. The Devil is in the Decoder: Classification, Regression and GANs, *Zbigniew Wojna et al, BMVC* [pdf](https://arxiv.org/pdf/1707.05847.pdf)
 1. ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation, *Sachin Mehta et al, ECCV.* [pdf](https://arxiv.org/pdf/1803.06815.pdf) &#x1F680;&#x1F680;&#x23F0;
