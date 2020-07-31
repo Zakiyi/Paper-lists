@@ -29,8 +29,8 @@
 1. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (**Inception v4**), *Christian Szegedy et al, AAAI* 2017. [pdf](https://arxiv.org/pdf/1602.07261.pdf)
 1. Xception: Deep Learning with Depthwise Separable Convolutions, *Franc¸ois Chollet et al, CVPR*. [pdf](https://arxiv.org/pdf/1610.02357.pdf)
 1. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, *Christian Szegedy et al, AAAI*. [pdf](https://arxiv.org/pdf/1602.07261.pdf)  [Review article of the Inception series](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)  
-1. Aggregated Residual Transformations for Deep Neural Networks, *Saining Xie et al, CVPR*. [pdf](https://arxiv.org/pdf/1611.05431.pdf)
-1. Densely Connected Convolutional Networks, *Gao Huang et al, CVPR*. [pdf](https://arxiv.org/pdf/1608.06993.pdf)
+1. Aggregated Residual Transformations for Deep Neural Networks (**ResNeXt**), *Saining Xie et al, CVPR*. [pdf](https://arxiv.org/pdf/1611.05431.pdf)
+1. Densely Connected Convolutional Networks (**DenseNet**), *Gao Huang et al, CVPR*. [pdf](https://arxiv.org/pdf/1608.06993.pdf)
 1. Deformable Convolutional Networks, *Jifeng Dai et al, ICCV*. [pdf](https://arxiv.org/pdf/1703.06211.pdf)
 1. Dynamic Routing Between Capsules, *Sara Sabour et al, NIPS*. [pdf](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)
 1. Dilated Residual Networks, *Fisher Yu et al, CVPR*. [pdf](https://arxiv.org/pdf/1705.09914.pdf) &#x1F33E;&#x1F33E;
