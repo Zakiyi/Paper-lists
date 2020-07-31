@@ -102,6 +102,7 @@
 1. Self-Supervised Model Adaptation for Multimodal Semantic Segmentation, *Abhinav Valada et al, Arxiv.* [pdf](https://arxiv.org/pdf/1808.03833v3.pdf)
 1. Knowledge Adaptation for Efficient Semantic Segmentation, *Tong He et al, Arxiv*. [pdf](https://arxiv.org/pdf/1903.04688.pdf)
 1. Gated-SCNN: Gated Shape CNNs for Semantic Segmentation， *Towaki Takikawa et al, Arxiv.* [pdf](https://arxiv.org/pdf/1907.05740.pdf)
+1. Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation, *Chenxi Liu et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.02985.pdf)
 
 ### Weakly Supervised Segmentation
 &nbsp;&nbsp;&nbsp;&nbsp;**2018**
