@@ -59,7 +59,7 @@
 1. Spatial Group-wise Enhance: Improving Semantic Feature Learning in Convolutional Networks, *Xiang Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1905.09646.pdf)
 1. SLIMMABLE NEURAL NETWORKS, *Jiahui Yu et al, ICLR.* [pdf](2019)
 1. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, *Mingxing Tan et al, Arxiv.* [pdf](https://arxiv.org/pdf/1905.11946.pdf)
-
+<img src="https://github.com/Zakiyi/Paper-lists/blob/master/figures/efficient-net.png" width="600"/>
 &nbsp;&nbsp;&nbsp;&nbsp;**2020**
 1. Designing Network Design Spaces (**RegNet**), *Ilija Radosavovic et al, Arxiv.* [pdf](https://arxiv.org/pdf/2003.13678.pdf)
 1. Neural Architecture Design for GPU-Efficient Networks, *Ming Lin et al, Arxiv.* [pdf](https://arxiv.org/pdf/2006.14090.pdf)
