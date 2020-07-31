@@ -14,7 +14,7 @@
 1. Network In Network, *Min Lin et al, ICLR* 2014. [pdf](https://arxiv.org/pdf/1312.4400.pdf)
 1. Deeply-Supervised Nets, *Chen-Yu Lee et al, AISTATS* 2015. [pdf](https://chl260.github.io/PDF/Lee_AISTATS15.pdf)
 1. Highway Networks, *R. K. Srivastava et al ICML* 2015. [pdf](https://arxiv.org/pdf/1505.00387.pdf)
-1. Very Deep Convolutional Networks For Large-Scale Image Recognition, *Karen Simonyan et al, ICLR* 2015. [pdf](https://arxiv.org/pdf/1409.1556.pdf)
+1. Very Deep Convolutional Networks For Large-Scale Image Recognition (**VGGNet**), *Karen Simonyan et al, ICLR* 2015. [pdf](https://arxiv.org/pdf/1409.1556.pdf)
 1. Going Deeper with Convolutions (**Inception v1**), *Christian Szegedy et al, CVPR* 2015. [pdf](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
 1. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (**Inception v2/BN inception**), *Sergey Ioffe et al,  ICML* 2015. [pdf](http://proceedings.mlr.press/v37/ioffe15.pdf) 
 1. Rethinking the Inception Architecture for Computer Vision (**Inception v3**), *Christian Szegedy et al, CVPR* 2016. [pdf](https://arxiv.org/pdf/1512.00567.pdf)
@@ -39,7 +39,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**2018**
 1. CBAM: Convolutional Block Attention Module, *Sanghyun Woo et al, ECCV*. [pdf](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)
 1. Deformable ConvNets v2: More Deformable, Better Results, *Xizhou Zhu et al, Arxiv*. [pdf](https://arxiv.org/pdf/1811.11168.pdf)
-1. Squeeze-and-Excitation Networks, *Jie Hu et al, CVPR*. [journal pdf](https://arxiv.org/pdf/1709.01507.pdf) [conf pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf) &#x1F33E;&#x1F33E;&#x1F340;
+1. Squeeze-and-Excitation Networks (**SENet**), *Jie Hu et al, CVPR*. [journal pdf](https://arxiv.org/pdf/1709.01507.pdf) [conf pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf) &#x1F33E;&#x1F33E;&#x1F340;
 1. CondenseNet: An Efficient DenseNet using Learned Group Convolutions, *Gao Huang et al, CVPR*. [pdf](https://arxiv.org/pdf/1711.09224.pdf)
 1. Learning Transferable Architectures for Scalable Image Recognition (**NASNet**), *Barret Zoph et al, CVPR*. [pdf](https://arxiv.org/pdf/1707.07012.pdf)
 1. Beyod Finite Layer Neural Networks Bridging Deep Architecture and Numerical Differential Equations, *Yiping Lu et al, ICML*. [pdf](https://arxiv.org/pdf/1710.10121v2.pdf)
@@ -50,7 +50,7 @@
 1. Dynamic Sampling Convolutional Neural Networks, *Jialin Wu et al, ECCV.* [pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jialin_Wu_Dynamic_Sampling_Convolutional_ECCV_2018_paper.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2019**
-1. Selective Kernel Networks, *Xiang Li et al, CVPR*. [pdf](https://arxiv.org/pdf/1903.06586.pdf)
+1. Selective Kernel Networks (**SKNet**), *Xiang Li et al, CVPR*. [pdf](https://arxiv.org/pdf/1903.06586.pdf)
 1. Res2Net: A New Multi-scale Backbone Architecture, *Shang-Hua Gao et al, Arxiv*. [pdf](https://arxiv.org/pdf/1904.01169.pdf)
 1. Exploring Randomly Wired Neural Networks for Image Recognition, *Saining Xie et al, Arxiv*. [pdf](https://arxiv.org/pdf/1904.01569.pdf)
 1. Deep Layer Aggregation, *Fisher Yu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1707.06484.pdf)
