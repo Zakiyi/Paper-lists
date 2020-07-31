@@ -59,6 +59,9 @@
 1. Spatial Group-wise Enhance: Improving Semantic Feature Learning in Convolutional Networks, *Xiang Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1905.09646.pdf)
 1. SLIMMABLE NEURAL NETWORKS, *Jiahui Yu et al, ICLR.* [pdf](2019)
 
+&nbsp;&nbsp;&nbsp;&nbsp;**2020**
+1. Neural Architecture Design for GPU-Efficient Networks, "Ming Lin ea al, Arxiv." [pdf](https://arxiv.org/pdf/2006.14090.pdf)
+
 ## Interpretation & Understanding
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Inspiring articles & reports**
