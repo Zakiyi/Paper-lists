@@ -113,7 +113,9 @@
 1. Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation, *Chenxi Liu et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.02985.pdf)
 <img src="https://github.com/Zakiyi/Paper-lists/blob/master/figures/2019_auto_deeplab.png" alt="drawing" width="600"/>
 
-### Weakly Supervised Segmentation
+### Weakly & Semi Supervised Segmentation
 &nbsp;&nbsp;&nbsp;&nbsp;**2018**
 1. Revisiting Dilated Convolution: A Simple Approach for Weakly- and SemiSupervised Semantic Segmentation, *Yunchao Wei et al, CVPR*.
 [pdf](https://arxiv.org/pdf/1805.04574.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;**2020**
+1. Semi-Supervised Semantic Segmentation with Cross-Consistency Training, *Yassine Ouali et al, CVPR*.[pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ouali_Semi-Supervised_Semantic_Segmentation_With_Cross-Consistency_Training_CVPR_2020_paper.pdf)
