@@ -9,8 +9,8 @@ Papers list of deep learning and machine lerning in deep learning, computer visi
 * [Model Interpretation / Visualization](https://github.com/Zakiyi/Paper-lists/blob/master/model_interpretation.md)
 * [Model Acceleration / Compression](https://github.com/Zakiyi/Paper-lists/blob/master/model%20compress%20&%20accelerate.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;**General topics**
-* [Data imbalance & Noisy label]
+&nbsp;&nbsp;&nbsp;&nbsp;**General learning problems**
+* [Data imbalance & Noisy label](https://github.com/Zakiyi/Paper-lists/blob/master/General%20topics/Data%20Imbalance%20%26%20Noisy%20Label.md)
 * [Domain Adaptation]
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Applications**
