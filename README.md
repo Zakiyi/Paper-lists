@@ -11,7 +11,7 @@ Papers list of deep learning and machine lerning in deep learning, computer visi
 
 &nbsp;&nbsp;&nbsp;&nbsp;**General learning problems**
 * [Data imbalance & Noisy label](https://github.com/Zakiyi/Paper-lists/blob/master/General%20topics/Data%20Imbalance%20%26%20Noisy%20Label.md)
-* [Domain Adaptation]
+* [Semi & Weak Supervised learning]()
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Applications**
 * [Image Classification](https://github.com/Zakiyi/Paper-lists/blob/master/image%20classification.md)
