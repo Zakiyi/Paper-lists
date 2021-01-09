@@ -112,7 +112,7 @@
 1. Gated-SCNN: Gated Shape CNNs for Semantic Segmentation， *Towaki Takikawa et al, Arxiv.* [pdf](https://arxiv.org/pdf/1907.05740.pdf)
 1. Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation, *Chenxi Liu et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.02985.pdf)
 <img src="https://github.com/Zakiyi/Paper-lists/blob/master/figures/2019_auto_deeplab.png" alt="drawing" width="600"/>
-
+1. ZigZagNet: Fusing Top-Down and Bottom-Up Context for Object Segmentation, *Di Lin et al, CVPR.*[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lin_ZigZagNet_Fusing_Top-Down_and_Bottom-Up_Context_for_Object_Segmentation_CVPR_2019_paper.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2020**
 1. Modeling the Background for Incremental Learning in Semantic Segmentation, *Fabio Cermelli et al, CVPR*.[pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cermelli_Modeling_the_Background_for_Incremental_Learning_in_Semantic_Segmentation_CVPR_2020_paper.pdf)
