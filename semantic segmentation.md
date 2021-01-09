@@ -105,7 +105,7 @@
 1. Modeling the Background for Incremental Learning in Semantic Segmentation, *Fabio Cermelli et al, CVPR*.[pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cermelli_Modeling_the_Background_for_Incremental_Learning_in_Semantic_Segmentation_CVPR_2020_paper.pdf)
 1. RANet: Region Attention Network for Semantic Segmentation, *Dingguo Shen et al, CVPR.*[pdf](https://proceedings.neurips.cc/paper/2020/file/9fe8593a8a330607d76796b35c64c600-Paper.pdf)
 1. Co-occurrent Features in Semantic Segmentation, *Hang Zhang et al, CVPR.*[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Co-Occurrent_Features_in_Semantic_Segmentation_CVPR_2019_paper.pdf) 
-![img](https://github.com/Zakiyi/Paper-lists/blob/master/figures/CFNet.png)
+<img src="https://github.com/Zakiyi/Paper-lists/blob/master/figures/CFNet.png" alt="drawing" width="600"/>
 
 ### Weakly & Semi Supervised Segmentation
 &nbsp;&nbsp;&nbsp;&nbsp;**2018**
