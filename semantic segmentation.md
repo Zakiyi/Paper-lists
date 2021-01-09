@@ -61,12 +61,11 @@
 1. BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation, *Changqian Yu et al, ECCV.* [pdf](https://arxiv.org/pdf/1808.00897.pdf)
 1. The Lovasz-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks, *Maxim Berman et al, CVPR.* [pdf](https://arxiv.org/pdf/1705.08790.pdf)
 1. Context Contrasted Feature and Gated Multi-scale Aggregation for Scene Segmentation, *Henghui Ding et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Context_Contrasted_Feature_CVPR_2018_paper.pdf) &#x1F340;&#x1F340;&#x1F349;
-1. CCNet: Criss-Cross Attention for Semantic Segmentation, *Zilong Huang et al, Arxiv.* [pdf](https://arxiv.org/pdf/1811.11721.pdf)
+1. CCNet: Criss-Cross Attention for Semantic Segmentation, *Zilong Huang et al, Arxiv.*[pdf](https://arxiv.org/pdf/1811.11721.pdf)
 <img src="https://github.com/Zakiyi/Paper-lists/blob/master/figures/ccnet.png" alt="drawing" width="600"/>
-
 1. DenseASPP for Semantic Segmentation in Street Scenes, *Maoke Yang et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf) &#x1F33E;&#x1F33E;
-
 <img src="https://github.com/Zakiyi/Paper-lists/blob/master/figures/2018_Dense_ASPP.png" alt="drawing" width="600"/>
+
 1. MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving, *Marvin Teichmann, IV.* [pdf](https://arxiv.org/pdf/1612.07695v2.pdf)
 1. Context Encoding for Semantic Segmentation, *Hang Zhang et al, CVPR.* [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Context_Encoding_for_CVPR_2018_paper.pdf)
 1. PSANet: Point-wise Spatial Attention Network for Scene Parsing, *Hengshuang Zhao et al, ECCV.* [pdf](https://hszhao.github.io/papers/eccv18_psanet.pdf)
