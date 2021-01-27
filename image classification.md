@@ -13,6 +13,9 @@
 **2019**
 1. The Receptive Field as a Regularizer in Deep Convolutional Neural Networks for Acoustic Scene Classification, *Khaled Koutini et al, Arxiv.* [pdf](https://arxiv.org/pdf/1907.01803v1.pdf)
 
+**2020**
+1. TRAINING INDEPENDENT SUBNETWORKS FOR ROBUST PREDICTION, *Marton Havasi et al, Arxiv.* [pdf](https://arxiv.org/pdf/2010.06610.pdf)
+
 ### Fine-grained Image Classification
 1. Look Closer to See Better: Recurrent Attention Convolutional Neural Network for Fine-grained Image Recognition, *Jianlong Fu et al, CVPR* **2017**. [pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf)
 1. Learning Multi-Attention Convolutional Neural Network for Fine-Grained Image Recognition, *Heliang Zheng et al, ICCV* **2017**. [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf)
