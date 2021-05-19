@@ -8,6 +8,7 @@
 #### Model designing
 &nbsp;&nbsp;&nbsp;&nbsp;**2020**
 1. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, *Alexey Dosovitskiy et al, ICLR.* [pdf](https://arxiv.org/pdf/2010.11929.pdf)
+
 &nbsp;&nbsp;&nbsp;&nbsp;**2021**
 1. Transformer in Transformer, *Kai Han et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.00112.pdf%E2%80%8Barxiv.org)
 2. Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, *Ze Liu et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.14030.pdf)
