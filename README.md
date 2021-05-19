@@ -4,7 +4,7 @@ Papers list of deep learning and machine lerning in deep learning, computer visi
 ### General deep learning
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Models and Optimization**
-* [CNN Architectures Designing](https://github.com/Zakiyi/Paper-lists/blob/master/convolutional%20neural%20networks.md)
+* [Convolutional Neural Network](https://github.com/Zakiyi/Paper-lists/blob/master/convolutional%20neural%20networks.md)
 * [Vision Transformer]()
 * [Optimization / Generalization](https://github.com/Zakiyi/Paper-lists/blob/master/optimization%20&%20generalization.md)
 * [Model Interpretation / Visualization](https://github.com/Zakiyi/Paper-lists/blob/master/model_interpretation.md)
