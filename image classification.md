@@ -26,8 +26,8 @@
 **Hierarchical model construction**
 1. AWX: An Integrated Approach to Hierarchical-Multilabel Classification, *Luca Masera et al*, **ECML PKDD 2018**. [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-10925-7_20.pdf)
 
-**Class embedding learning**
-
+**Class embedding learning** 
+1. Poincaré Embeddings for Learning Hierarchical Representations, *Maximilian Nickel et al*, **NIPS 2017**. [pdf](https://papers.nips.cc/paper/2017/file/59dfa2df42d9e3d41f5b02bfc32229dd-Paper.pdf)
 **Hierarchical loss function**
 
 1. Hierarchical Class-Based Curriculum Loss, *Palash Goyal et al, Arxiv* **2020**. [pdf](https://arxiv.org/pdf/2006.03629.pdf)
