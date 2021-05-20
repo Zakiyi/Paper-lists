@@ -28,6 +28,6 @@
 
 **Class embedding learning** 
 1. Poincaré Embeddings for Learning Hierarchical Representations, *Maximilian Nickel et al*, **NIPS 2017**. [pdf](https://papers.nips.cc/paper/2017/file/59dfa2df42d9e3d41f5b02bfc32229dd-Paper.pdf)
-**Hierarchical loss function**
 
+**Hierarchical loss function**
 1. Hierarchical Class-Based Curriculum Loss, *Palash Goyal et al, Arxiv* **2020**. [pdf](https://arxiv.org/pdf/2006.03629.pdf)
