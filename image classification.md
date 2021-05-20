@@ -23,6 +23,8 @@
 1. Deep learning for fine-grained image analysis: A survey, *Xiu-Shen Wei et al, Arxiv* **2019**. [pdf](https://arxiv.org/pdf/1907.03069.pdf), [blog](http://www.weixiushen.com/project/Awesome_FGIA/Awesome_FGIA.html)
 
 ### Hierarchical Image Classification
+
+Hierarchy constraint: a sample belonging to a given class must also belong to all its ancestors in the hierarchy.
 **Hierarchical model construction**
 1. AWX: An Integrated Approach to Hierarchical-Multilabel Classification, *Luca Masera et al*, **ECML PKDD 2018**. [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-10925-7_20.pdf)
 1. Coherent Hierarchical Multi-Label Classification Networks, *Eleonora Giunchiglia et al*, **NIPS 2020**. [pdf](https://papers.nips.cc/paper/2020/file/6dd4e10e3296fa63738371ec0d5df818-Paper.pdf)
