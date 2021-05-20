@@ -29,4 +29,4 @@
 
 **Hierarchical loss function**
 
-1. Hierarchical Class-Based Curriculum Loss, *Palash Goyal et al， Arxiv.* [pdf](https://arxiv.org/pdf/2006.03629.pdf)
+1. Hierarchical Class-Based Curriculum Loss, *Palash Goyal et al, Arxiv* **2020.** [pdf](https://arxiv.org/pdf/2006.03629.pdf)
