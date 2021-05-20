@@ -23,3 +23,9 @@
 1. Deep learning for fine-grained image analysis: A survey, *Xiu-Shen Wei et al, Arxiv* **2019.** [pdf](https://arxiv.org/pdf/1907.03069.pdf), [blog](http://www.weixiushen.com/project/Awesome_FGIA/Awesome_FGIA.html)
 
 #### Hierarchical Image Classification
+**Hierarchical model construction**
+
+**Class embedding learning**
+
+**Hierarchical loss function**
+1. 
