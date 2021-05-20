@@ -31,3 +31,4 @@
 
 **Hierarchical loss function**
 1. Hierarchical Class-Based Curriculum Loss, *Palash Goyal et al, Arxiv* **2020**. [pdf](https://arxiv.org/pdf/2006.03629.pdf)
+2. Making Better Mistakes: Leveraging Class Hierarchies with Deep Networks, *Luca Bertinetto et al*, **CVPR 2020**. [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bertinetto_Making_Better_Mistakes_Leveraging_Class_Hierarchies_With_Deep_Networks_CVPR_2020_paper.pdf)
