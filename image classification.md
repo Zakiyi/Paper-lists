@@ -25,10 +25,11 @@
 ### Hierarchical Image Classification
 **Hierarchical model construction**
 1. AWX: An Integrated Approach to Hierarchical-Multilabel Classification, *Luca Masera et al*, **ECML PKDD 2018**. [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-10925-7_20.pdf)
-
-**Class embedding learning** 
+1. Coherent Hierarchical Multi-Label Classification Networks, *Eleonora Giunchiglia et al*, **NIPS 2020**. [pdf](https://papers.nips.cc/paper/2020/file/6dd4e10e3296fa63738371ec0d5df818-Paper.pdf)
+**Class embedding & metric learning** 
 1. Poincaré Embeddings for Learning Hierarchical Representations, *Maximilian Nickel et al*, **NIPS 2017**. [pdf](https://papers.nips.cc/paper/2017/file/59dfa2df42d9e3d41f5b02bfc32229dd-Paper.pdf)
-
+1. 
 **Hierarchical loss function**
 1. Hierarchical Class-Based Curriculum Loss, *Palash Goyal et al, Arxiv* **2020**. [pdf](https://arxiv.org/pdf/2006.03629.pdf)
 2. Making Better Mistakes: Leveraging Class Hierarchies with Deep Networks, *Luca Bertinetto et al*, **CVPR 2020**. [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bertinetto_Making_Better_Mistakes_Leveraging_Class_Hierarchies_With_Deep_Networks_CVPR_2020_paper.pdf)
+3. 
