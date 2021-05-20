@@ -20,13 +20,13 @@
 1. Look Closer to See Better: Recurrent Attention Convolutional Neural Network for Fine-grained Image Recognition, *Jianlong Fu et al, CVPR* **2017**. [pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf)
 1. Learning Multi-Attention Convolutional Neural Network for Fine-Grained Image Recognition, *Heliang Zheng et al, ICCV* **2017**. [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf)
 1. Kernel Pooling for Convolutional Neural Networks, *Yin Cui et al, CVPR* **2017**. [pdf](https://vision.cornell.edu/se3/wp-content/uploads/2017/04/cui2017cvpr.pdf) **(feature aggregation)**
-1. Deep learning for fine-grained image analysis: A survey, *Xiu-Shen Wei et al, Arxiv* **2019.** [pdf](https://arxiv.org/pdf/1907.03069.pdf), [blog](http://www.weixiushen.com/project/Awesome_FGIA/Awesome_FGIA.html)
+1. Deep learning for fine-grained image analysis: A survey, *Xiu-Shen Wei et al, Arxiv* **2019**. [pdf](https://arxiv.org/pdf/1907.03069.pdf), [blog](http://www.weixiushen.com/project/Awesome_FGIA/Awesome_FGIA.html)
 
 ### Hierarchical Image Classification
 **Hierarchical model construction**
-
+1. AWX: An Integrated Approach to Hierarchical-Multilabel Classification, *Luca Masera et al*, **ECML PKDD 2018**.[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-10925-7_20.pdf)
 **Class embedding learning**
 
 **Hierarchical loss function**
 
-1. Hierarchical Class-Based Curriculum Loss, *Palash Goyal et al, Arxiv* **2020.** [pdf](https://arxiv.org/pdf/2006.03629.pdf)
+1. Hierarchical Class-Based Curriculum Loss, *Palash Goyal et al, Arxiv* **2020**. [pdf](https://arxiv.org/pdf/2006.03629.pdf)
