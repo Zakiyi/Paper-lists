@@ -25,6 +25,7 @@
 ### Hierarchical Image Classification
 **Hierarchical model construction**
 1. AWX: An Integrated Approach to Hierarchical-Multilabel Classification, *Luca Masera et al*, **ECML PKDD 2018**.[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-10925-7_20.pdf)
+
 **Class embedding learning**
 
 **Hierarchical loss function**
