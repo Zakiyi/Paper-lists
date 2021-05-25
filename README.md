@@ -5,7 +5,7 @@ Papers list of deep learning and machine lerning in deep learning, computer visi
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Models and Optimization**
 * [Convolutional Neural Network](https://github.com/Zakiyi/Paper-lists/blob/master/convolutional%20neural%20networks.md)
-* [Vision Transformer]()
+* [Vision Transformer](https://github.com/Zakiyi/Paper-lists/blob/master/general%20model%20designing/vision%20transformer.md)
 * [Optimization / Generalization](https://github.com/Zakiyi/Paper-lists/blob/master/optimization%20&%20generalization.md)
 * [Model Interpretation / Visualization](https://github.com/Zakiyi/Paper-lists/blob/master/model_interpretation.md)
 * [Model Acceleration / Compression](https://github.com/Zakiyi/Paper-lists/blob/master/model%20compress%20&%20accelerate.md)
