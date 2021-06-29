@@ -20,6 +20,7 @@
 8. Evolving Attention with Residual Convolutions, *Yujing Wang et al, Arxiv.* [pdf](https://arxiv.org/pdf/2102.12895.pdf)
 9. Towards Robust Vision Transformer, *Xiaofeng Mao et al, Arxiv.* [pdf](https://arxiv.org/pdf/2105.07926.pdf)
 10. Scaling Local Self-Attention for Parameter Efficient Visual Backbones, *Ashish Vaswani et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.12731.pdf)
+11. Scalable Visual Transformers with Hierarchical Pooling, *Zizheng Pan et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.10619.pdf)
 
 
 #### MISC
