@@ -19,7 +19,7 @@
 7. DeepViT: Towards Deeper Vision Transformer, *Daquan Zhou et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.11886.pdf)
 8. Evolving Attention with Residual Convolutions, *Yujing Wang et al, Arxiv.* [pdf](https://arxiv.org/pdf/2102.12895.pdf)
 9. Towards Robust Vision Transformer, *Xiaofeng Mao et al, Arxiv.* [pdf](https://arxiv.org/pdf/2105.07926.pdf)
-10. Scaling Local Self-Attention for Parameter Efficient Visual Backbones, *Ashish Vaswani et al, Arxiv.*[pdf](https://arxiv.org/pdf/2103.12731.pdf)
+10. Scaling Local Self-Attention for Parameter Efficient Visual Backbones, *Ashish Vaswani et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.12731.pdf)
 
 
 #### MISC
