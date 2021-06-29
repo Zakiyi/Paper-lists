@@ -18,6 +18,7 @@
 6. Visformer: The Vision-friendly Transformer, *Zhengsu Chen et al, Arxiv.* [pdf](https://arxiv.org/pdf/2104.12533.pdf)
 7. DeepViT: Towards Deeper Vision Transformer, *Daquan Zhou et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.11886.pdf)
 8. Evolving Attention with Residual Convolutions, *Yujing Wang et al, Arxiv.* [pdf](https://arxiv.org/pdf/2102.12895.pdf)
+9. Towards Robust Vision Transformer, *Xiaofeng Mao et al, Arxiv.* [pdf](https://arxiv.org/pdf/2105.07926.pdf)
 
 
 #### MISC
