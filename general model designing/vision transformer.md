@@ -27,6 +27,7 @@
 #### MISC
 1. Understanding Robustness of Transformers for Image Classification, *Srinadh Bhojanapalli et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.14586.pdf)
 2. Intriguing Properties of Vision Transformers, *Muzammal Naseer et al, Arxiv.* [pdf](https://arxiv.org/pdf/2105.10497v1.pdf)
+3. Emerging Properties in Self-Supervised Vision Transformers, *Mathilde Caron et al, Arxiv.* [pdf](https://arxiv.org/pdf/2104.14294.pdf)
 
 
 
