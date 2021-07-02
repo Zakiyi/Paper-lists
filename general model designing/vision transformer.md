@@ -22,7 +22,7 @@
 10. Scaling Local Self-Attention for Parameter Efficient Visual Backbones, *Ashish Vaswani et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.12731.pdf)
 11. Scalable Visual Transformers with Hierarchical Pooling, *Zizheng Pan et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.10619.pdf)
 12. VOLO: Vision Outlooker for Visual Recognition, *Li Yuan et al, Arxiv.* [pdf](https://arxiv.org/pdf/2106.13112.pdf)
-13. CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification, *Stephane et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.10697.pdf)
+13. ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases, *Stephane et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.10697.pdf)
 14. Early Convolutions Help Transformers See Better, *Tete Xiao et al, Arxiv.* [pdf](https://arxiv.org/pdf/2106.14881v1.pdf)
 
 
