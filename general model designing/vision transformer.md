@@ -32,6 +32,6 @@
 3. Emerging Properties in Self-Supervised Vision Transformers, *Mathilde Caron et al, Arxiv.* [pdf](https://arxiv.org/pdf/2104.14294.pdf)
 4. Are Pre-trained Convolutions Better than Pre-trained Transformers? *Yi Tay et al, Arxiv.* [pdf](https://arxiv.org/pdf/2105.03322.pdf)
 5. How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers, *Andreas Steiner et al, Arxiv.* [pdf](https://arxiv.org/pdf/2106.10270.pdf)
-
+6. Scaling Vision Transformers, *Xiaohua Zhai et al, Arxiv*. [pdf](https://arxiv.org/pdf/2106.04560.pdf)
 
 
