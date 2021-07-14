@@ -39,6 +39,7 @@
 27. Aggregating Nested Transformers, *Zizhao Zhang et al, Arxiv.* [pdf](https://arxiv.org/pdf/2105.12723.pdf)
 28. Synthesizer: Rethinking Self-attention for Transformer Models, *Yi Tay et al, Arxiv.* [pdf](https://arxiv.org/pdf/2005.00743v2.pdf)
 29. DeepViT: Towards Deeper Vision Transformer, *Daquan Zhou et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.11886.pdf)
+30. Attention Augmented Convolutional Networks, *Irwan Bello et al, Arxiv.* [pdf](https://arxiv.org/pdf/1904.09925v5.pdf)
 
 #### MISC
 1. Understanding Robustness of Transformers for Image Classification, *Srinadh Bhojanapalli et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.14586.pdf)
