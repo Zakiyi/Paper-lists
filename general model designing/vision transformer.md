@@ -8,6 +8,7 @@
 #### Model designing
 &nbsp;&nbsp;&nbsp;&nbsp;**2020**
 1. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, *Alexey Dosovitskiy et al, ICLR.* [pdf](https://arxiv.org/pdf/2010.11929.pdf)
+2. Visual Transformers: Token-based Image Representation and Processing for Computer Vision, *Bichen Wu et al, Arxiv.* [pdf](https://arxiv.org/pdf/2006.03677v4.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2021**
 1. Transformer in Transformer, *Kai Han et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.00112.pdf%E2%80%8Barxiv.org)
