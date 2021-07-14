@@ -31,6 +31,7 @@
 19. An Attention Free Transformer, *Shuangfei Zhai et al, Arxiv.* [pdf](https://arxiv.org/pdf/2105.14103.pdf)
 20. Pay Attention to MLPs, *Hanxiao Liu et al, Arxiv.* [pdf](https://arxiv.org/pdf/2105.08050.pdf)
 21. DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification, *Yongming Rao et al*. [pdf](https://arxiv.org/pdf/2106.02034.pdf)
+22. CoAtNet: Marrying Convolution and Attention for All Data Sizes, *Zihang Dai et al, Arxiv.* [pdf](https://arxiv.org/pdf/2106.04803.pdf)
 
 #### MISC
 1. Understanding Robustness of Transformers for Image Classification, *Srinadh Bhojanapalli et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.14586.pdf)
