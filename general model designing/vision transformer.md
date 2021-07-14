@@ -25,6 +25,8 @@
 13. ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases, *Stephane et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.10697.pdf)
 14. Early Convolutions Help Transformers See Better, *Tete Xiao et al, Arxiv.* [pdf](https://arxiv.org/pdf/2106.14881v1.pdf)
 15. Augmented Shortcuts for Vision Transformers, *Yehui Tang et al, Arxiv.* [pdf](https://arxiv.org/pdf/2106.15941.pdf)
+16. Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer, *Zilong Huang et al, Arxiv.* [pdf](https://arxiv.org/pdf/2106.03650.pdf)
+17. RegionViT: Regional-to-Local Attention for Vision Transformers, *Chun-Fu (Richard) Chen et al, Arxiv.* [pdf](https://arxiv.org/pdf/2106.02689.pdf)
 
 
 #### MISC
