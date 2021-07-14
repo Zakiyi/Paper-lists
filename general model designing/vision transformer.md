@@ -28,6 +28,9 @@
 16. Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer, *Zilong Huang et al, Arxiv.* [pdf](https://arxiv.org/pdf/2106.03650.pdf)
 17. RegionViT: Regional-to-Local Attention for Vision Transformers, *Chun-Fu (Richard) Chen et al, Arxiv.* [pdf](https://arxiv.org/pdf/2106.02689.pdf)
 18. Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length, *Yulin Wang et al, Arxiv.* [pdf](https://arxiv.org/pdf/2105.15075.pdf)
+19. An Attention Free Transformer, *Shuangfei Zhai et al, Arxiv.* [pdf](https://arxiv.org/pdf/2105.14103.pdf)
+20. Pay Attention to MLPs, *Hanxiao Liu et al, Arxiv.* [pdf](https://arxiv.org/pdf/2105.08050.pdf)
+21. DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification, *Yongming Rao et al*. [pdf](https://arxiv.org/pdf/2106.02034.pdf)
 
 #### MISC
 1. Understanding Robustness of Transformers for Image Classification, *Srinadh Bhojanapalli et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.14586.pdf)
