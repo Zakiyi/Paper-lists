@@ -43,5 +43,6 @@
 4. Are Pre-trained Convolutions Better than Pre-trained Transformers? *Yi Tay et al, Arxiv.* [pdf](https://arxiv.org/pdf/2105.03322.pdf)
 5. How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers, *Andreas Steiner et al, Arxiv.* [pdf](https://arxiv.org/pdf/2106.10270.pdf)
 6. Scaling Vision Transformers, *Xiaohua Zhai et al, Arxiv*. [pdf](https://arxiv.org/pdf/2106.04560.pdf)
+7. When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations,*Xiangning Chen et al, Arxiv.* [pdf](https://arxiv.org/pdf/2106.01548.pdf)
 
 
