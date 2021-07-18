@@ -40,10 +40,11 @@
 27. Transformer in Convolutional Neural Networks, *Yun Liu et al, Arxiv.* [pdf](https://arxiv.org/pdf/2106.03180.pdf)
 28. LocalViT: Bringing Locality to Vision Transformers, *Yawei Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/2104.05707.pdf)
 29. Aggregating Nested Transformers, *Zizhao Zhang et al, Arxiv.* [pdf](https://arxiv.org/pdf/2105.12723.pdf)
-30. Synthesizer: Rethinking Self-attention for Transformer Models, *Yi Tay et al, Arxiv.* [pdf](https://arxiv.org/pdf/2005.00743v2.pdf)
-31. DeepViT: Towards Deeper Vision Transformer, *Daquan Zhou et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.11886.pdf)
-32. Attention Augmented Convolutional Networks, *Irwan Bello et al, Arxiv.* [pdf](https://arxiv.org/pdf/1904.09925v5.pdf)
-33. CMT: Convolutional Neural Networks Meet Vision Transformers, *Jianyuan Guo et al, Arxiv.* [pdf](https://arxiv.org/pdf/2107.06263.pdf)
+30. All Tokens Matter: Token Labeling for Training Better Vision Transformers, *Zihang Jiang et al, Arxiv.* [pdf](https://arxiv.org/pdf/2104.10858.pdf)
+31. Synthesizer: Rethinking Self-attention for Transformer Models, *Yi Tay et al, Arxiv.* [pdf](https://arxiv.org/pdf/2005.00743v2.pdf)
+32. DeepViT: Towards Deeper Vision Transformer, *Daquan Zhou et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.11886.pdf)
+33. Attention Augmented Convolutional Networks, *Irwan Bello et al, Arxiv.* [pdf](https://arxiv.org/pdf/1904.09925v5.pdf)
+34. CMT: Convolutional Neural Networks Meet Vision Transformers, *Jianyuan Guo et al, Arxiv.* [pdf](https://arxiv.org/pdf/2107.06263.pdf)
 
 #### MISC
 1. Understanding Robustness of Transformers for Image Classification, *Srinadh Bhojanapalli et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.14586.pdf)
