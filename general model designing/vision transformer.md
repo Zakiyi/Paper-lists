@@ -46,6 +46,7 @@
 33. DeepViT: Towards Deeper Vision Transformer, *Daquan Zhou et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.11886.pdf)
 34. Attention Augmented Convolutional Networks, *Irwan Bello et al, Arxiv.* [pdf](https://arxiv.org/pdf/1904.09925v5.pdf)
 35. CMT: Convolutional Neural Networks Meet Vision Transformers, *Jianyuan Guo et al, Arxiv.* [pdf](https://arxiv.org/pdf/2107.06263.pdf)
+36. Less is More: Pay Less Attention in Vision Transformers, *Zizheng Pan et al, Arxiv.* [pdf](https://arxiv.org/pdf/2105.14217v2.pdf)
 
 #### MISC
 1. Understanding Robustness of Transformers for Image Classification, *Srinadh Bhojanapalli et al, Arxiv.* [pdf](https://arxiv.org/pdf/2103.14586.pdf)
