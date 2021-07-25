@@ -14,7 +14,7 @@ Papers list of deep learning and machine lerning in deep learning, computer visi
 * [Data imbalance & Noisy label](https://github.com/Zakiyi/Paper-lists/blob/master/General%20topics/Data%20Imbalance%20%26%20Noisy%20Label.md)
 * [Semi & Weak Supervised learning](https://github.com/Zakiyi/Paper-lists/blob/master/General%20topics/Semi%20%26%20Weak%20supervised%20learning.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Applications**
+&nbsp;&nbsp;&nbsp;&nbsp;**CV Applications**
 * [Image Classification](https://github.com/Zakiyi/Paper-lists/blob/master/image%20classification.md)
 * [Semantic Segmentation](https://github.com/Zakiyi/Paper-lists/blob/master/semantic%20segmentation.md)
 * [Object Detection & Visual Tracking](https://github.com/Zakiyi/Paper-lists/blob/master/Object%20Detection.md)
