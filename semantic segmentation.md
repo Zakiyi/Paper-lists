@@ -90,16 +90,17 @@
 1. GFF: Gated Fully Fusion for Semantic Segmentation, *Xiangtai Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1904.01803.pdf)
 1. OCNet: Object Context Network for Scene Parsing， *Yuhui Yuan et al, Arxiv.* [pdf](https://arxiv.org/pdf/1809.00916.pdf)
 1. A Probabilistic U-Net for Segmentation of Ambiguous Images, *Simon A. A. Kohl et al, Arxiv.* [pdf](https://arxiv.org/pdf/1806.05034.pdf)
-1. Multi-scale Autoencoders in Autoencoder for Semantic Image Segmentation, *John Paul T. Yusiong et al, ACIIDS*. [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-14799-0_51.pdf)
-1. FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation, *Huikai Wu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1903.11816.pdf)
-1. CaseNet: Content-Adaptive Scale Interaction Networks for Scene Parsing, *Xin Jin et al, Arxiv.* [pdf](https://arxiv.org/pdf/1904.08170.pdf)
-1. Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation, *Xinge Zhu et al, Arxiv*. [pdf](https://arxiv.org/pdf/1809.00903v2.pdf)
-1. PyramNet: Point Cloud Pyramid Attention Network and Graph Embedding Module for Classification and Segmentation, *Kang Zhiheng et al, Arxiv*. [pdf](https://arxiv.org/pdf/1906.03299v1.pdf)
-1. Self-Supervised Model Adaptation for Multimodal Semantic Segmentation, *Abhinav Valada et al, Arxiv.* [pdf](https://arxiv.org/pdf/1808.03833v3.pdf)
-1. Knowledge Adaptation for Efficient Semantic Segmentation, *Tong He et al, Arxiv*. [pdf](https://arxiv.org/pdf/1903.04688.pdf)
-1. Gated-SCNN: Gated Shape CNNs for Semantic Segmentation， *Towaki Takikawa et al, Arxiv.* [pdf](https://arxiv.org/pdf/1907.05740.pdf)
-1. Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation, *Chenxi Liu et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.02985.pdf)<img src="https://github.com/Zakiyi/Paper-lists/blob/master/figures/2019_auto_deeplab.png" alt="drawing" width="600"/>
-1. ZigZagNet: Fusing Top-Down and Bottom-Up Context for Object Segmentation, *Di Lin et al, CVPR.*[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lin_ZigZagNet_Fusing_Top-Down_and_Bottom-Up_Context_for_Object_Segmentation_CVPR_2019_paper.pdf)
+![img](https://github.com/Zakiyi/Paper-lists/blob/master/figures/2019%20Probabilistic%20U-Net.jpg)
+3. Multi-scale Autoencoders in Autoencoder for Semantic Image Segmentation, *John Paul T. Yusiong et al, ACIIDS*. [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-14799-0_51.pdf)
+4. FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation, *Huikai Wu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1903.11816.pdf)
+5. CaseNet: Content-Adaptive Scale Interaction Networks for Scene Parsing, *Xin Jin et al, Arxiv.* [pdf](https://arxiv.org/pdf/1904.08170.pdf)
+6. Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation, *Xinge Zhu et al, Arxiv*. [pdf](https://arxiv.org/pdf/1809.00903v2.pdf)
+7. PyramNet: Point Cloud Pyramid Attention Network and Graph Embedding Module for Classification and Segmentation, *Kang Zhiheng et al, Arxiv*. [pdf](https://arxiv.org/pdf/1906.03299v1.pdf)
+8. Self-Supervised Model Adaptation for Multimodal Semantic Segmentation, *Abhinav Valada et al, Arxiv.* [pdf](https://arxiv.org/pdf/1808.03833v3.pdf)
+9. Knowledge Adaptation for Efficient Semantic Segmentation, *Tong He et al, Arxiv*. [pdf](https://arxiv.org/pdf/1903.04688.pdf)
+10. Gated-SCNN: Gated Shape CNNs for Semantic Segmentation， *Towaki Takikawa et al, Arxiv.* [pdf](https://arxiv.org/pdf/1907.05740.pdf)
+11. Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation, *Chenxi Liu et al, CVPR.* [pdf](https://arxiv.org/pdf/1901.02985.pdf)<img src="https://github.com/Zakiyi/Paper-lists/blob/master/figures/2019_auto_deeplab.png" alt="drawing" width="600"/>
+12. ZigZagNet: Fusing Top-Down and Bottom-Up Context for Object Segmentation, *Di Lin et al, CVPR.*[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lin_ZigZagNet_Fusing_Top-Down_and_Bottom-Up_Context_for_Object_Segmentation_CVPR_2019_paper.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2020**
 1. Modeling the Background for Incremental Learning in Semantic Segmentation, *Fabio Cermelli et al, CVPR*.[pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cermelli_Modeling_the_Background_for_Incremental_Learning_in_Semantic_Segmentation_CVPR_2020_paper.pdf)
