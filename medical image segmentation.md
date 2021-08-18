@@ -8,7 +8,7 @@
 5. Deep learning for cardiac image segmentation: A review (**2019**), *Chen Chen et al, Arxiv.* [pdf](https://arxiv.org/pdf/1911.03723.pdf)
 6. Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Technical Aspects and Introduction to State-of-Art Applications (**2019**), *Hyunseok Seo et al, Arxiv.* [pdf](https://arxiv.org/pdf/1911.02521.pdf)
 
-### fully Supervised Segmentation
+### Fully Supervised Segmentation
 **~2016**
 1. Combining Fully Convolutional and Recurrent Neural Networks for 3D Biomedical Image Segmentation (***2016*** &#x1F44D;), *Jianxu Chen et al, NIPS.* [pdf](https://arxiv.org/pdf/1609.01006.pdf)
 1. Efficient Multi-Scale 3D CNN with fully connected CRF for Accurate Brain Lesion Segmentation (***2016***), *K Kamnitsas et al, Medical Image Analysis.* [pdf](https://arxiv.org/pdf/1603.05959.pdf)
