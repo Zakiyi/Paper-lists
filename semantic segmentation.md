@@ -89,7 +89,7 @@
 1. CaseNet: Content-Adaptive Scale Interaction Networks for Scene Parsing, *Xin Jin et al, Arxiv.* [pdf](https://arxiv.org/pdf/1904.08170.pdf)
 1. GFF: Gated Fully Fusion for Semantic Segmentation, *Xiangtai Li et al, Arxiv.* [pdf](https://arxiv.org/pdf/1904.01803.pdf)
 1. OCNet: Object Context Network for Scene Parsing， *Yuhui Yuan et al, Arxiv.* [pdf](https://arxiv.org/pdf/1809.00916.pdf)
-1. A Probabilistic U-Net for Segmentation of Ambiguous Images, *Simon A. A. Kohl et al, Arxiv.* [pdf](https://arxiv.org/pdf/1806.05034.pdf) <img src="https://github.com/Zakiyi/Paper-lists/blob/master/figures/2019%20Probabilistic%20U-Net.jpg" alt="drawing" width="600"/>
+1. A Probabilistic U-Net for Segmentation of Ambiguous Images, *Simon A. A. Kohl et al, Arxiv.* [pdf](https://arxiv.org/pdf/1806.05034.pdf) <img src="https://github.com/Zakiyi/Paper-lists/blob/master/figures/2019%20Probabilistic%20U-Net.jpg" alt="drawing" width="500"/>
 3. Multi-scale Autoencoders in Autoencoder for Semantic Image Segmentation, *John Paul T. Yusiong et al, ACIIDS*. [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-14799-0_51.pdf)
 4. FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation, *Huikai Wu et al, Arxiv.* [pdf](https://arxiv.org/pdf/1903.11816.pdf)
 5. CaseNet: Content-Adaptive Scale Interaction Networks for Scene Parsing, *Xin Jin et al, Arxiv.* [pdf](https://arxiv.org/pdf/1904.08170.pdf)
