@@ -19,7 +19,8 @@
 1. Understanding the Disharmony between Dropout and Batch Normalization by Variance Shif, *Xiang Li et al, CVPR.* [pdf](https://arxiv.org/pdf/1801.05134.pdf)
 1. Averaging Weights Leads to Wider Optima and Better Generalization, *Pavel Izmailov et al, Arxiv.* [pdf](https://arxiv.org/pdf/1803.05407.pdf)
 1. Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets, *Rohith Kuditipudi et al, Arxiv.* [pdf](https://arxiv.org/pdf/1906.06247.pdf), [post](http://www.offconvex.org/2019/06/16/modeconnectivity/)
-
+***2021***
+1.Do We Need Zero Training Loss After Achieving Zero Training Error? *Takashi Ishida et al, Arxiv.*[pdf](https://arxiv.org/pdf/2002.08709.pdf)
 ### Generalization
 1. Why do deep convolutional networks generalize so poorly to small image transformations? *Aharon Azulay et al, Arxiv* **2018.** [pdf](https://arxiv.org/pdf/1805.12177.pdf)
 1. Implicit Regularization in Deep Matrix Factorization, *Sanjeev Arora et al, Arxiv.* [pdf](https://arxiv.org/pdf/1905.13655.pdf)
