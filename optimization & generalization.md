@@ -21,6 +21,7 @@
 1. Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets, *Rohith Kuditipudi et al, Arxiv.* [pdf](https://arxiv.org/pdf/1906.06247.pdf), [post](http://www.offconvex.org/2019/06/16/modeconnectivity/)
 
 ***2021***
+
 1.Do We Need Zero Training Loss After Achieving Zero Training Error? *Takashi Ishida et al, Arxiv.*[pdf](https://arxiv.org/pdf/2002.08709.pdf)
 
 ### Generalization
