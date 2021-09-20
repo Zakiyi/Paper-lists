@@ -11,3 +11,4 @@
 
 ***2020***
 1. BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition, *Boyan Zhou et al, CVPR*.[pdf](https://arxiv.org/pdf/1912.02413.pdf)
+1. Rethinking the Value of Labels for Improving Class-Imbalanced Learning, *Yuzhe Yang et al, NIPS* [pdf](https://arxiv.org/pdf/2006.07529.pdf)
