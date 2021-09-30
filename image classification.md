@@ -32,7 +32,8 @@ Hierarchy constraint: a sample belonging to a given class must also belong to al
 
 **Class embedding & metric learning** 
 1. Poincaré Embeddings for Learning Hierarchical Representations, *Maximilian Nickel et al*, **NIPS 2017**. [pdf](https://papers.nips.cc/paper/2017/file/59dfa2df42d9e3d41f5b02bfc32229dd-Paper.pdf)
-1. Hyperbolic Image Embeddings, *Valentin Khrulkov et al*, **CVPR 2020**. [pdf]
+1. Hyperbolic Image Embeddings, *Valentin Khrulkov et al*, **CVPR 2020**. [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Khrulkov_Hyperbolic_Image_Embeddings_CVPR_2020_paper.pdf)
+
 **Hierarchical loss function**
 1. Hierarchical Class-Based Curriculum Loss, *Palash Goyal et al, Arxiv* **2020**. [pdf](https://arxiv.org/pdf/2006.03629.pdf)
 2. Making Better Mistakes: Leveraging Class Hierarchies with Deep Networks, *Luca Bertinetto et al*, **CVPR 2020**. [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bertinetto_Making_Better_Mistakes_Leveraging_Class_Hierarchies_With_Deep_Networks_CVPR_2020_paper.pdf)
